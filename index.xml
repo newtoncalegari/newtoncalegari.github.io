@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newton Calegari</title>
+    <link>http://newtoncalegari.com.br/</link>
+    <description>Recent content on Newton Calegari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 06 Jun 2016 10:15:00 -0300</lastBuildDate>
+    <atom:link href="http://newtoncalegari.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Palestra: Desafios e boas práticas para publicação de dados na Web</title>
+      <link>http://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</link>
+      <pubDate>Mon, 06 Jun 2016 10:15:00 -0300</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</guid>
+      <description>&lt;p&gt;Palestra realizada no evento Conip 2016, em São Paulo, no dia 06 de Junho de 2016, apresentando os desafios para publicação de dados listados no documento &lt;a href=&#34;http://w3.org/TR/dwbp/&#34;&gt;Data on the Web Best Practices&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/8q3nOObDakSuEX&#34; width=&#34;510&#34; height=&#34;420&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/newtoncalegari/boas-prticas-para-publicao-de-dados-na-web&#34; title=&#34;Boas práticas para publicação de dados na Web&#34; target=&#34;_blank&#34;&gt;Boas práticas para publicação de dados na Web&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/newtoncalegari&#34; target=&#34;_blank&#34;&gt;Newton Calegari&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Palestra: O histórico das CSS</title>
+      <link>http://newtoncalegari.com.br/talk/historico-das-css/</link>
+      <pubDate>Sat, 07 May 2016 19:00:00 -0300</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/talk/historico-das-css/</guid>
+      <description>&lt;p&gt;Slides da palestra &amp;ldquo;O histórico das CSS&amp;rdquo; realizada no &lt;a href=&#34;http://cssday.com.br/&#34;&gt;CSSDay&lt;/a&gt;, dia 07 de Maio de 2016, em Maceió, AL.&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;5dce36a622b44071ab9dac5aa3d16ac2&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Por onde começar a estudar Web Semântica</title>
+      <link>http://newtoncalegari.com.br/post/por-onde-comecar-estudar-web-semantica/</link>
+      <pubDate>Tue, 08 Dec 2015 11:06:37 -0200</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/post/por-onde-comecar-estudar-web-semantica/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;https://twitter.com/ivomarsan/status/671483973130915840&#34;&gt;@ivomarsan&lt;/a&gt; me perguntou
+sobre algumas recomendações e conteúdo para estudar Web Semântica.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;pt&#34;&gt;&lt;p lang=&#34;pt&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/newtoncalegari&#34;&gt;@newtoncalegari&lt;/a&gt; Recomendaria estudar apenas pela documentação ou existe outro manual legal?&lt;/p&gt;&amp;mdash; Ivomar (@ivomarsan) &lt;a href=&#34;https://twitter.com/ivomarsan/status/671483973130915840&#34;&gt;1 dezembro 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Como 140 caracteres não seriam suficientes para responder, publiquei um post no site
+do &lt;a href=&#34;http://www.ceweb.br/noticia/notas/web-semantica-para-desenvolvedores-por-onde-comecar/&#34;&gt;Centro Web&lt;/a&gt;
+indicando alguns recursos úteis, como o livro de &lt;a href=&#34;http://www.ceweb.br/publicacao/livro-dados-abertos/&#34;&gt;Dados Abertos Conectados&lt;/a&gt;,
+para quem está interessado em aprender mais sobre o assunto.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Semântica no Rock and Code 2015</title>
+      <link>http://newtoncalegari.com.br/post/web-semantica-no-rock-and-code-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 10:16:19 -0200</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/post/web-semantica-no-rock-and-code-2015/</guid>
+      <description>&lt;p&gt;No último final de semana (28/11/2015) aconteceu o &lt;a href=&#34;https://www.facebook.com/frontinaracaju/&#34;&gt;Rock and Code 2015&lt;/a&gt; em Aracaju, SE - nos mesmos moldes do &lt;a href=&#34;http://frontinaracaju.com.br&#34;&gt;FrontInAracaju&lt;/a&gt; - organizado pelo &lt;a href=&#34;http://twitter.com/italowaxman&#34;&gt;Italo&lt;/a&gt; e pelo &lt;a href=&#34;http://twitter.com/cezinhajc&#34;&gt;Julio&lt;/a&gt;. Que evento show!&lt;/p&gt;
+
+&lt;p&gt;Como na edição passada, também tivemos a banda e o &lt;a href=&#34;http://twitter.com/juarezpaf&#34;&gt;Juarez Filho&lt;/a&gt; cuidando da apresentação dos palestrantes no estilo talk-show.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://newtoncalegari.com.br/img/rockandcode-2015.jpg&#34; alt=&#34;Foto da galera do Rock and Code 2015&#34; /&gt;
+(Foto &lt;a href=&#34;https://www.facebook.com/frontinaracaju/photos/a.585604621450540.1073741828.584760704868265/1135231339821196&#34;&gt;disponível&lt;/a&gt; na página do &lt;a href=&#34;https://www.facebook.com/frontinaracaju/&#34;&gt;FrontInAracaju&lt;/a&gt; no facebook)&lt;/p&gt;
+
+&lt;p&gt;A programação era ótima, muitas palestrantes de qualidade, como o &lt;a href=&#34;http://maujor.com&#34;&gt;Maujor&lt;/a&gt;, &lt;a href=&#34;http://cironunes.com&#34;&gt;Ciro Nunes&lt;/a&gt;, &lt;a href=&#34;http://guilhermefarias.com/&#34;&gt;Gui Farias&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/deividmarques&#34;&gt;Devid Marques&lt;/a&gt;, &lt;a href=&#34;http://andregarzia.com/&#34;&gt;André Garzia&lt;/a&gt; (o cara que sabe tudo sobre scripts, sejam eles para filmes ou então em Javascript :-) ), &lt;a href=&#34;https://twitter.com/bernarddeluna&#34;&gt;Bernard de Luna&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/keppelen&#34;&gt;Giovanni Keppelen&lt;/a&gt;, &lt;a href=&#34;http://jaydson.org/&#34;&gt;Jaydson Gomes&lt;/a&gt;, entre outros. Infelizmente não consegui assistir todas as palestras, mas pelo que &lt;a href=&#34;https://twitter.com/search?q=%23RockAndCode&#34;&gt;acompanhei&lt;/a&gt;, foram ótimas.&lt;/p&gt;
+
+&lt;p&gt;O evento estava muito bom. Concordo com o que o Juarez &lt;a href=&#34;https://www.facebook.com/juarezpaf/posts/10208005490917789&#34;&gt;disse&lt;/a&gt;: &amp;ldquo;We had a blast!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;6&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/-uDDrZHwTm/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;É isso que rola no mesmo palco das palestras entre um palestrante e outro no #RockAndCode. Muito foda! Quem ainda não foi, recomendo não perder o próximo! sai da frente @italowaxman kkkkk&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A video posted by Guilherme Farias (@guiky) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-11-30T18:45:14+00:00&#34;&gt;Nov 30, 2015 at 10:45am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Foi uma oportunidade incrível para conhecer muita gente, conversar bastante e voltar para casa com ideias e projetos a serem desenvolvidos.&lt;/p&gt;
+
+&lt;p&gt;Na minha apresentação busquei mostrar os tópicos iniciais para que desenvolvedores web passem a publicar dados estruturados na Web, para formar a &lt;a href=&#34;http://www.w3.org/2013/data/&#34;&gt;Web de Dados&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mostrei alguns exemplos de uso dos vocabulários do &lt;a href=&#34;http://schema.org&#34;&gt;Schema.org&lt;/a&gt; pelo Google, como o &lt;a href=&#34;https://developers.google.com/structured-data/rich-snippets/&#34;&gt;Google Rich Snippets&lt;/a&gt;, além de apresentar as especificações &lt;a href=&#34;http://www.w3.org/TR/rdfa-lite/&#34;&gt;RDFa&lt;/a&gt; e JSON-LD(&lt;a href=&#34;http://www.w3.org/TR/json-ld/&#34;&gt;http://www.w3.org/TR/json-ld/&lt;/a&gt;). Coloquei abaixo os &lt;a href=&#34;http://www.slideshare.net/newtoncalegari/web-semntica-para-desenvolvedores-rdfa-jsonld-e-schemaorg&#34;&gt;slides da palestra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/t0AOo1s1BgQlYw&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/newtoncalegari/web-semntica-para-desenvolvedores-rdfa-jsonld-e-schemaorg&#34; title=&#34;Web Semântica para desenvolvedores: RDFa, JSON-LD e schema.org&#34; target=&#34;_blank&#34;&gt;Web Semântica para desenvolvedores: RDFa, JSON-LD e schema.org&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/newtoncalegari&#34; target=&#34;_blank&#34;&gt;Newton Calegari&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Mais uma vez, parabéns a todos os envolvidos!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Palestra: Web Semântica para desenvolvedores</title>
+      <link>http://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</link>
+      <pubDate>Mon, 30 Nov 2015 11:00:00 -0300</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</guid>
+      <description>&lt;p&gt;Nesta palestra apresentei os conceitos inciais de Web Semântica bem como as dicas para utilização de &lt;a href=&#34;http://rdfa.info/&#34;&gt;RDFa&lt;/a&gt;, &lt;a href=&#34;http://json-ld.org&#34;&gt;JSON-LD&lt;/a&gt; e &lt;a href=&#34;http://schema.org/&#34;&gt;Schema.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/t0AOo1s1BgQlYw&#34; width=&#34;510&#34; height=&#34;420&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/newtoncalegari/web-semntica-para-desenvolvedores-rdfa-jsonld-e-schemaorg&#34; title=&#34;Web Semântica para desenvolvedores: RDFa, JSON-LD e schema.org&#34; target=&#34;_blank&#34;&gt;Web Semântica para desenvolvedores: RDFa, JSON-LD e schema.org&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/newtoncalegari&#34; target=&#34;_blank&#34;&gt;Newton Calegari&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>http://newtoncalegari.com.br/about/</link>
+      <pubDate>Sun, 29 Nov 2015 14:02:37 +0200</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/about/</guid>
+      <description>&lt;p&gt;Olá,&lt;/p&gt;
+
+&lt;p&gt;meu nome é Newton Calegari, sou Bacharel em Ciência Computação pela PUC-SP e mestre em &lt;em&gt;Tecnologias da Inteligência e Design Digital&lt;/em&gt;, programa no qual pesquisei sobre anotações semânticas para Web sob a orientação do Professor Dr. Demi Getschko.&lt;/p&gt;
+
+&lt;p&gt;Autalmente eu trabalho no &lt;a href=&#34;http://w3c.br&#34;&gt;W3C Brasil&lt;/a&gt; e no &lt;a href=&#34;http://ceweb.br&#34;&gt;Ceweb.br&lt;/a&gt; - &lt;em&gt;Centro de Estudos sobre Tecnologias Web&lt;/em&gt; do &lt;a href=&#34;http://nic.br&#34;&gt;NIC.br&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Na minha área de atuação lido principalmente com os temas &lt;span lang=&#34;en&#34;&gt;Open Web Platform&lt;/span&gt;, Web Semântica e Padronização. Sou também editor do documento de boas práticas para publicação de dados na Web do grupo de trabalho &lt;a href=&#34;http://w3.org/TR/dwbp/&#34;&gt;Data on The Web Best Practices&lt;/a&gt; do &lt;a href=&#34;http://w3.org&#34;&gt;W3C&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Costumo publicar conteúdos relacionados aos tópicos que pesquiso e trabalho no Twitter com o usuário &lt;a href=&#34;http://twitter.com/newtoncalegari&#34;&gt;@newtoncalegari&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pode me encontrar também pelo email &lt;em&gt;newton&lt;/em&gt; [at] &lt;em&gt;nic.br&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Obrigado pela visita :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participação no CBIE/LACLO e WebMedia 2015</title>
+      <link>http://newtoncalegari.com.br/post/relato-cbie-laclo-e-webmedia2015/</link>
+      <pubDate>Mon, 23 Nov 2015 23:57:50 -0200</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/post/relato-cbie-laclo-e-webmedia2015/</guid>
+      <description>
+
+&lt;h1 id=&#34;participação-nos-eventos-cbie-laclo-e-webmedia-2015&#34;&gt;Participação nos eventos CBIE/LACLO e WebMedia 2015&lt;/h1&gt;
+
+&lt;p&gt;A última semana de Outubro foi, sem dúvida, muito interessante, porém um pouco agitada.
+No início da semana fui para Maceió, AL, para participar do &lt;a href=&#34;http://ic.ufal.br/evento/cbie_laclo2015/&#34; title=&#34;CBIE/LACLO 2015&#34;&gt;CBIE/LACLO&lt;/a&gt; (IV Congresso Brasileiro de Informática na Educação e X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem), um evento gigantesco com diversas trilhas simultâneas.&lt;/p&gt;
+
+&lt;p&gt;Além do CBIE/LACLO que ocorreu entre os dias 26 e 30 de Outubro, aconteceu em Manaus, capital do estado do Amazonas, o 21º Simpósio Brasileiro de Multimídia e Web (&lt;a href=&#34;http://webmedia.icomp.ufam.edu.br/&#34; title=&#34;WebMedia 2015&#34;&gt;WebMedia 2015&lt;/a&gt;), no período de 27 a 30 de Outubro.&lt;/p&gt;
+
+&lt;p&gt;Pelo fato de os dois eventos estarem acontecendo simultaneamente nas regiões
+norte e nordeste, participei em parte do CBIE/LACLO em Maceió e depois viajei
+para Manaus para participar também no WebMedia.&lt;/p&gt;
+
+&lt;p&gt;A minha apresentação no CBIE/LACLO ocorreu numa trilha dedicada à Web Semântica, durante o &lt;a href=&#34;http://www.ccead.puc-rio.br/wswed2015/&#34; title=&#34;Seventh Brazilian Workshop on Semantic Web and Education&#34;&gt;WSWEd&amp;rsquo;15&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nela apresentei sobre as iniciativas do &lt;a href=&#34;http://ceweb.br&#34;&gt;Ceweb.br&lt;/a&gt; (Centro de Estudos sobre Tecnologias Web, do NIC.br) voltadas para Dados Abertos e Web Semântica.&lt;/p&gt;
+
+&lt;p&gt;Na terça-feira, dia 27, participei do curso de &lt;strong&gt;Dados Abertos Conectados&lt;/strong&gt; ministrado pelo Armando Barbosa e pelo Judson Bandeira, ambos do NEES/UFAL. O workshop foi dividido em duas partes, na primeira apresentaram sobre os conceitos e teorias relacionadas à Linked Open Data, já a segunda parte teve uma abordagem prática, escrevendo queries SPARQL e testando as consultas, além de utilizar o Open Refine para tratar os dados antes de disponibilizá-los no Virtuoso.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://newtoncalegari.com.br/img/workshop_lod.jpg&#34; alt=&#34;Ao final do curso de Dados Abertos Conectados&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A organização preparou o terceiro dia do evento na Praia de Ipioca, no restaurante Hibiscus. Lugar muito bonito, onde tivemos as sessões de premiação dos melhores trabalhos e do concurso &lt;a href=&#34;http://ic.ufal.br/evento/cbie_laclo2015/eventos#Apps-Edu&#34;&gt;Apps.Edu&lt;/a&gt;, além de um painel do IETF abordando o tópico Informática na Educação, com a participação do &lt;a href=&#34;http://twiter.com/juliaobraga&#34;&gt;Julião Braga&lt;/a&gt;, &lt;a href=&#34;http://inf.ufrgs.br/~granville/&#34;&gt;Lisandro Granville&lt;/a&gt;, vice-presidente da SBC e atual conselheiro do &lt;a href=&#34;http://cgi.br&#34;&gt;CGI.br&lt;/a&gt;, e dos professores Rafael de Amorim e Ig Ibert Bittencout, da UFAL.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://newtoncalegari.com.br/img/cbie-praia-hibiscus-maceio.jpg&#34; alt=&#34;Restaurante Hibiscus na Praia de Ipioca em Maceió, AL&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No dia seguinte cheguei em Manaus, AM, para participar do WebMedia’15. Minha primeira participação no WebMedia.&lt;/p&gt;
+
+&lt;p&gt;Na minha palestra no WebMedia abordei o tópico de descentralização da Web, assunto que foi o tema principal da &lt;a href=&#34;http://conferenciaweb.w3c.br/&#34;&gt;Conferência Web 2015&lt;/a&gt;, com uma &lt;a href=&#34;https://www.youtube.com/watch?v=BPZiBDPKiGk&amp;amp;index=2&amp;amp;list=PLQq8-9yVHyOaHUE6t3x89xRO4-tPR1n2L&#34;&gt;apresentação realizada&lt;/a&gt; pelo &lt;a href=&#34;https://twitter.com/therealdeiu&#34;&gt;Andrei Sambra&lt;/a&gt;, do W3C/MIT.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://newtoncalegari.com.br/img/webmedia2015-newton.jpg&#34; alt=&#34;Newton Calegari na apresentação sobre Web Descentralizada no WebMedia 2015 em Manaus, AM&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A experiência participando desses dois eventos foi muito boa, pretendo participar novamente em outras oportunidades.&lt;/p&gt;
+
+&lt;p&gt;Os slides das palestras sobre as &lt;strong&gt;iniciativas do Ceweb relacionadas com Dados Abertos e Web Semântica&lt;/strong&gt; e sobre &lt;strong&gt;Descentralização da Web&lt;/strong&gt; estão disponíveis no &lt;a href=&#34;http://slideshare.com/ceweb&#34;&gt;Slideshare do Ceweb.br&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
