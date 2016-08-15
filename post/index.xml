@@ -6,8 +6,38 @@
     <description>Recent content in Posts on Newton Calegari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 08 Dec 2015 11:06:37 -0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2016 14:49:41 -0300</lastBuildDate>
     <atom:link href="http://newtoncalegari.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mestrado: anotações semânticas na Web</title>
+      <link>http://newtoncalegari.com.br/post/mestrado-anotacoes-semanticas-web/</link>
+      <pubDate>Mon, 15 Aug 2016 14:49:41 -0300</pubDate>
+      
+      <guid>http://newtoncalegari.com.br/post/mestrado-anotacoes-semanticas-web/</guid>
+      <description>&lt;p&gt;Eu pesquisei durante o mestrado em Tecnologias de Inteligência e Design Digital (TIDD) da PUC-SP sobre anotações semânticas na Web.&lt;/p&gt;
+
+&lt;p&gt;Na minha dissertação eu apresentei os fundamentos teóricos de Web Semântica, os conceitos sobre Ontologias e Vocabulários, o estado da arte com as aplicações que utilizam conceitos e tecnologias relacionados à Web Semântica, e por fim a proposta de uma ferramenta de anotações semânticas.&lt;/p&gt;
+
+&lt;p&gt;Compartilho o resumo abaixo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A proposta apresentada nesta pesquisa busca aproximar as tecnologias de Web Semântica dos usuários publicadores de conteúdo na Web, permitindo que estes contribuam com a geração de dados estruturados e metadados sobre textos e informações que venham a disponibilizar na Web.&lt;/p&gt;
+
+&lt;p&gt;O objetivo geral deste trabalho é investigar a viabilidade técnica de desenvolvimento de uma ferramenta de anotação semântica que permita aos usuários publicadores de conteúdo contribuir para o ecossistema de Web Semântica.&lt;/p&gt;
+
+&lt;p&gt;Com suporte de (BERNERS-LEE et al., 2001; ALESSO; SMITH, 2006; RODRÍGUEZ-ROCHA et al., 2015; GUIZZARDI, 2005; ISOTANI; BITTENCOURT, 2015) é apresentado o tópico de Web Semântica, de acordo com a pilha tecnológica que mostra o conjunto de tecnologias propostas para a sua realização. Considerando a importância de ontologias e vocabulários para a construção de aplicações de Web Semântica são apresentados, então, os tópicos fundamentais de modelagem conceitual e a linguagem de ontologias para Web.&lt;/p&gt;
+
+&lt;p&gt;Para fornecer a base necessária para a utilização de anotações semânticas são apresentados, além da definição, os modos de uso de anotações (manual, semi-automático e automático) e as formas de integrar essas anotações com recursos disponíveis nas tecnologias da Web Semântica. O estado da arte contempla trabalhos e projetos recentes sobre o uso de Web Semântica, no contexto de publicação de conteúdo na Web.&lt;/p&gt;
+
+&lt;p&gt;O estado da arte contempla trabalhos e projetos recentes sobre o uso de Web Semântica no contexto de publicação de conteúdo na Web. A metodologia é baseada na proposta apresentada por SANTAELLA; VIEIRA (2008), seguindo uma abordagem exploratória para a condução da pesquisa. São apresentados a proposta e os componentes de uma ferramenta de anotação Semântica que utiliza vocabulários compartilhados para a geração de dados estruturados, a partir de conteúdo textual.&lt;/p&gt;
+
+&lt;p&gt;Concluindo o trabalho, são apresentadas as possibilidades futuras, tanto da implementação da ferramenta em um cenário real, atestando sua viabilidade técnica, quanto novos trabalhos encaminhados a partir desta pesquisa.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Compartilho aqui &lt;a href=&#34;http://newtoncalegari.com.br/CALEGARI-2016-mestrado.pdf&#34;&gt;dissertação completa em PDF&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Por onde começar a estudar Web Semântica</title>
