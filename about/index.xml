@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Newton Calegari</title>
-    <link>http://newtoncalegari.com.br/about/</link>
+    <link>https://newtoncalegari.com.br/about/</link>
     <description>Recent content in Abouts on Newton Calegari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 29 Nov 2015 14:02:37 +0200</lastBuildDate>
-    <atom:link href="http://newtoncalegari.com.br/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://newtoncalegari.com.br/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sobre</title>
-      <link>http://newtoncalegari.com.br/about/</link>
+      <link>https://newtoncalegari.com.br/about/</link>
       <pubDate>Sun, 29 Nov 2015 14:02:37 +0200</pubDate>
       
-      <guid>http://newtoncalegari.com.br/about/</guid>
+      <guid>https://newtoncalegari.com.br/about/</guid>
       <description>&lt;p&gt;Olá,&lt;/p&gt;
 
 &lt;p&gt;meu nome é Newton Calegari, sou Bacharel em Ciência Computação pela PUC-SP e mestre em &lt;em&gt;Tecnologias da Inteligência e Design Digital&lt;/em&gt;, programa no qual pesquisei sobre anotações semânticas para Web sob a orientação do Professor Dr. Demi Getschko.&lt;/p&gt;

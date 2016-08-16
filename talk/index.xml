@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Newton Calegari</title>
-    <link>http://newtoncalegari.com.br/talk/</link>
+    <link>https://newtoncalegari.com.br/talk/</link>
     <description>Recent content in Talks on Newton Calegari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 15 Aug 2016 18:15:12 -0300</lastBuildDate>
-    <atom:link href="http://newtoncalegari.com.br/talk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://newtoncalegari.com.br/talk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Palestra: A Semântica na Web e os dados estruturados no Google</title>
-      <link>http://newtoncalegari.com.br/talk/dados-estruturados-na-web-frontinbh2016/</link>
+      <link>https://newtoncalegari.com.br/talk/dados-estruturados-na-web-frontinbh2016/</link>
       <pubDate>Mon, 15 Aug 2016 18:15:12 -0300</pubDate>
       
-      <guid>http://newtoncalegari.com.br/talk/dados-estruturados-na-web-frontinbh2016/</guid>
+      <guid>https://newtoncalegari.com.br/talk/dados-estruturados-na-web-frontinbh2016/</guid>
       <description>&lt;p&gt;Palestra sobre Web Semântica voltada para desenvolvedores realizada no &lt;a href=&#34;http://frontinbh.com.br/&#34;&gt;FrontInBH 2016&lt;/a&gt;, na qual apresento sobre a evolução da Web (Web de Documentos para Web de Dados), as aplicações e usos práticos de semântica na Web.&lt;/p&gt;
 
 &lt;p&gt;Apresento também sobre RDFa, JSON-LD e Schema.org, mostrando exemplos de como o Google utiliza Web Semântica para melhorar seus produtos.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Palestra: Desafios e boas práticas para publicação de dados na Web</title>
-      <link>http://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</link>
+      <link>https://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</link>
       <pubDate>Mon, 06 Jun 2016 10:15:00 -0300</pubDate>
       
-      <guid>http://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</guid>
+      <guid>https://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</guid>
       <description>&lt;p&gt;Palestra realizada no evento Conip 2016, em São Paulo, no dia 06 de Junho de 2016, apresentando os desafios para publicação de dados listados no documento &lt;a href=&#34;http://w3.org/TR/dwbp/&#34;&gt;Data on the Web Best Practices&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/8q3nOObDakSuEX&#34; width=&#34;510&#34; height=&#34;420&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/newtoncalegari/boas-prticas-para-publicao-de-dados-na-web&#34; title=&#34;Boas práticas para publicação de dados na Web&#34; target=&#34;_blank&#34;&gt;Boas práticas para publicação de dados na Web&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/newtoncalegari&#34; target=&#34;_blank&#34;&gt;Newton Calegari&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Palestra: O histórico das CSS</title>
-      <link>http://newtoncalegari.com.br/talk/historico-das-css/</link>
+      <link>https://newtoncalegari.com.br/talk/historico-das-css/</link>
       <pubDate>Sat, 07 May 2016 19:00:00 -0300</pubDate>
       
-      <guid>http://newtoncalegari.com.br/talk/historico-das-css/</guid>
+      <guid>https://newtoncalegari.com.br/talk/historico-das-css/</guid>
       <description>&lt;p&gt;Slides da palestra &amp;ldquo;O histórico das CSS&amp;rdquo; realizada no &lt;a href=&#34;http://cssday.com.br/&#34;&gt;CSSDay&lt;/a&gt;, dia 07 de Maio de 2016, em Maceió, AL.&lt;/p&gt;
 
 &lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;5dce36a622b44071ab9dac5aa3d16ac2&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Palestra: Web Semântica para desenvolvedores</title>
-      <link>http://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</link>
+      <link>https://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</link>
       <pubDate>Mon, 30 Nov 2015 11:00:00 -0300</pubDate>
       
-      <guid>http://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</guid>
+      <guid>https://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</guid>
       <description>&lt;p&gt;Nesta palestra apresentei os conceitos inciais de Web Semântica bem como as dicas para utilização de &lt;a href=&#34;http://rdfa.info/&#34;&gt;RDFa&lt;/a&gt;, &lt;a href=&#34;http://json-ld.org&#34;&gt;JSON-LD&lt;/a&gt; e &lt;a href=&#34;http://schema.org/&#34;&gt;Schema.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/t0AOo1s1BgQlYw&#34; width=&#34;510&#34; height=&#34;420&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/newtoncalegari/web-semntica-para-desenvolvedores-rdfa-jsonld-e-schemaorg&#34; title=&#34;Web Semântica para desenvolvedores: RDFa, JSON-LD e schema.org&#34; target=&#34;_blank&#34;&gt;Web Semântica para desenvolvedores: RDFa, JSON-LD e schema.org&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/newtoncalegari&#34; target=&#34;_blank&#34;&gt;Newton Calegari&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
