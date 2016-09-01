@@ -6,8 +6,22 @@
     <description>Recent content in Talks on Newton Calegari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 15 Aug 2016 18:15:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2016 14:29:16 -0300</lastBuildDate>
     <atom:link href="https://newtoncalegari.com.br/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Palestra: Vídeo na Web - indo além do elemento vídeo</title>
+      <link>https://newtoncalegari.com.br/talk/video-na-web-braziljs/</link>
+      <pubDate>Thu, 01 Sep 2016 14:29:16 -0300</pubDate>
+      
+      <guid>https://newtoncalegari.com.br/talk/video-na-web-braziljs/</guid>
+      <description>&lt;p&gt;Nesta palestra apresentei sobre o contexto dos vídeos na Web, mostrando dados e tendências que confirmam o crescimento de conteúdos em vídeo disponibilizados na Web.&lt;/p&gt;
+
+&lt;p&gt;Em relação aos aspéctos técnicos, mostrei como aplicar a abordagem de &lt;em&gt;adaptative bitrate&lt;/em&gt;, utilizando o padrão &lt;a href=&#34;http://dashif.org/about/&#34;&gt;MPEG-DASH&lt;/a&gt; e a extensão &lt;a href=&#34;https://www.w3.org/TR/media-source/&#34;&gt;Media Source Extensions&lt;/a&gt;, padronizada pelo W3C.&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;3fcfea035ca244c397a95ed47a669994&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>Palestra: A Semântica na Web e os dados estruturados no Google</title>
