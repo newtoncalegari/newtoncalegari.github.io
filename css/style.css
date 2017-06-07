@@ -141,6 +141,13 @@ nav.main-nav a.cta {
 	color: #fff;
 	margin-left: 12px;
 }
+body.talks nav.main-nav a.talks,
+body.posts nav.main-nav a.posts,
+body.about nav.main-nav a.about,
+nav.main-nav a:hover {
+	background: #5badf0;
+	color: #fff;
+}
 
 #wrapper, .wrapper {
   max-width: 600px;
