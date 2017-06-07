@@ -144,6 +144,7 @@ nav.main-nav a.cta {
 body.talks nav.main-nav a.talks,
 body.posts nav.main-nav a.posts,
 body.about nav.main-nav a.about,
+nav.main-nav a:focus,
 nav.main-nav a:hover {
 	background: #5badf0;
 	color: #fff;
