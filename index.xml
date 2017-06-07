@@ -39,6 +39,63 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://newtoncalegari.com.br/curso-websemantica-pucsp/Aula02.pdf&#34;&gt;Aula 02 - PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aula-03-intersecção-com-dados-abertos&#34;&gt;Aula 03: Intersecção com Dados Abertos&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conceitos de Dados Abertos&lt;/li&gt;
+&lt;li&gt;Portais e bases de dados abertos&lt;/li&gt;
+&lt;li&gt;Atividade com OpenRefine&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://newtoncalegari.com.br/curso-websemantica-pucsp/Aula03.pdf&#34;&gt;Aula 03 - PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aula-04-rdf-grafos-e-sparql&#34;&gt;Aula 04: RDF, Grafos e SPARQL&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Triplas RDF e Grafos&lt;/li&gt;
+&lt;li&gt;Linguagens de serialização&lt;/li&gt;
+&lt;li&gt;Triple stores (Banco de Dados)&lt;/li&gt;
+&lt;li&gt;Queries SPARQL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://newtoncalegari.com.br/curso-websemantica-pucsp/Aula04.pdf&#34;&gt;Aula 04 - PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aula-05-descrição-de-dados-e-rdfa&#34;&gt;Aula 05: Descrição de dados e RDFa&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ontologias e vocabulários&lt;/li&gt;
+&lt;li&gt;Especificação RDFa&lt;/li&gt;
+&lt;li&gt;Aplicação prática de RDFa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://newtoncalegari.com.br/curso-websemantica-pucsp/Aula05.pdf&#34;&gt;Aula 05 - PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aula-06-json-para-linked-data&#34;&gt;Aula 06: JSON para Linked Data&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;JSON para Linked Data&lt;/li&gt;
+&lt;li&gt;Especificação JSON-LD&lt;/li&gt;
+&lt;li&gt;Aplicando JSON-LD e RDFa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://newtoncalegari.com.br/curso-websemantica-pucsp/Aula06.pdf&#34;&gt;Aula 06 - PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aula-07-processamento-de-linguagem-natural&#34;&gt;Aula 07: Processamento de Linguagem Natural&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conceitos&lt;/li&gt;
+&lt;li&gt;Casos de uso&lt;/li&gt;
+&lt;li&gt;Frameworks e aplicações&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://newtoncalegari.com.br/curso-websemantica-pucsp/Aula07.pdf&#34;&gt;Aula 07 - PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso tenha alguma dúvida ou sugestão a respeito do material aqui disponibilizado, fique a vontade para me mandar uma mensagem!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Última atualização: 06/06/2017 às 21h51&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
