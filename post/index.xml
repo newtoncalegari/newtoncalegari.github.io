@@ -6,8 +6,20 @@
     <description>Recent content in Posts on Newton Calegari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 06 Jun 2017 21:15:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 16:53:56 -0200</lastBuildDate>
     <atom:link href="https://newtoncalegari.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Palestra: Fake News na Web</title>
+      <link>https://newtoncalegari.com.br/post/palestra-fakenews/</link>
+      <pubDate>Fri, 20 Oct 2017 16:53:56 -0200</pubDate>
+      
+      <guid>https://newtoncalegari.com.br/post/palestra-fakenews/</guid>
+      <description>&lt;p&gt;Palestra que apresentei em encontro interno no &lt;a href=&#34;http://nic.br/&#34;&gt;NIC.br&lt;/a&gt; abordando o tema &amp;ldquo;Fake News na Web&amp;rdquo;, mostrando como as notícias falsas e boatos se espalham, quais as medidas estão sendo tomadas e quais alternativas temos para lidar com este problema.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/npHAR1Sq8YugCF&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/newtoncalegari/fake-news-na-web&#34; title=&#34;Fake News na Web&#34; target=&#34;_blank&#34;&gt;Fake News na Web&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/newtoncalegari&#34; target=&#34;_blank&#34;&gt;Newton Calegari&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Curso de Web Semântica</title>
