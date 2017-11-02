@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<meta charset="utf-8">
+	<title>Aula sobre RDFa</title>
+	<body vocab="http://schema.org/">
+		<div resource="http://newtoncalegari.com.br/" typeof="Person">
+			<p><span property="name">Newton Calegari</span>, trabalha no <span property="worksFor" resource="http://w3.org">W3C<span> e na <span property="worksFor" resource="http://pucsp.br">PUC-SP</span>. É formado pela <span property="alumniOf" resource="http://pucsp.br">PUC-SP</span>.</p>
+		</div>
+		<div resource="http://pucsp.br/" typeof="EducationalOrganization">
+			<p property="name">PUC-SP</p>
+			<p>Site: <a property="url" href="http://pucsp.br/">pucsp.br</a></p>
+		</div>
+		<div resource="http://w3.org/" typeof="Organization">
+			<p property="name">World Wide Web Consortium</p>
+			<p>Site: <a property="url" href="http://w3.org/">w3.org</a></p>
+		</div>
+		<h3>Livros</h3>
+		<ul>
+			<li typeof="Book" resource="http://dbpedia.org/resource/Neverwhere">
+				<span property="name">Lugar Nenhum</span>, <span property="author">Neil Gaiman</span>
+			</li>
+			<li typeof="Book" resource="http://dbpedia.org/resource/Pattern_Recognition_(novel)">
+				<span property="name">Pattern Recognition</span>, <span property="author">William Gibson</span>
+			</li>
+			<li typeof="Book" resource="http://dbpedia.org/resource/Ready_Player_One">
+				<span property="name">Jogador Nº 1</span>, <span property="author">Ernest Cline</span>
+			</li>
+
+		</ul>
+		<h3>Filmes</h3>
+		<ul>
+			
+		</ul>
+	</body>
+</html>

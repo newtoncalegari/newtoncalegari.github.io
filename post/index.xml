@@ -6,8 +6,30 @@
     <description>Recent content in Posts on Newton Calegari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 06 Jun 2017 21:15:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2017 15:50:38 -0200</lastBuildDate>
     <atom:link href="https://newtoncalegari.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Labweb360</title>
+      <link>https://newtoncalegari.com.br/post/labweb360/</link>
+      <pubDate>Tue, 24 Oct 2017 15:50:38 -0200</pubDate>
+      
+      <guid>https://newtoncalegari.com.br/post/labweb360/</guid>
+      <description>&lt;p&gt;Durante um workshop sobre vídeo 360º realizado na &lt;a href=&#34;http://conferenciaweb.w3c.br/&#34;&gt;Conferência Web.br 2017&lt;/a&gt; lançamos o projeto &lt;a href=&#34;http://labweb.ceweb.br/360&#34;&gt;Labweb360&lt;/a&gt;: o portal de boas práticas sobre vídeo 360º do &lt;a href=&#34;http://ceweb.br&#34;&gt;Ceweb.br&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://labweb.ceweb.br/360&#34;&gt;&lt;img src=&#34;https://newtoncalegari.com.br/img/labweb360-dhobi-ghat.png&#34; alt=&#34;Imagem do site Labweb360&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Desenvolvi este projeto em conjunto com meu colega Diogo Cortiz. Como parte das atividades neste trabalho visitamos Mumbai, na Índia e Tóquio, Japão, onde fomos recebidos pelo professor Charith Fernando no laboratório Emboided Media da Keio University.&lt;/p&gt;
+
+&lt;p&gt;A fim de compreender os aspectos relacionados ao uso de vídeo 360º como uma poderosa ferramenta de &lt;em&gt;storytelling&lt;/em&gt;, gravamos um documentário, conduzido pelo Diogo e baseado na abordagem de documentário observativo, proposta por Bill Nichols. Foi gravado em Mumbai um &lt;a href=&#34;http://labweb.ceweb.br/galeria/dhobi-ghat-undisclosed/&#34;&gt;documentário experimental retratando o dia a dia da comunidade &lt;em&gt;Dhobi Ghat&lt;/em&gt;&lt;/a&gt; por meio das lentes de uma câmera 360º.&lt;/p&gt;
+
+&lt;p&gt;Em Tóquio, além de gravarmos &lt;a href=&#34;http://labweb.ceweb.br/galeria/the-best-lamem-in-town/&#34;&gt;outros vídeos em 360º&lt;/a&gt;, realizamos experimentos de realidade virtual e &amp;ldquo;telexistência&amp;rdquo;, explorando uma tecnologia chamada &lt;em&gt;hapitc feedback&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Os vídeos gravados para este projeto estão disponíveis na &lt;a href=&#34;http://labweb.ceweb.br/360/galeria/&#34;&gt;galeria&lt;/a&gt; do Labweb360.&lt;/p&gt;
+
+&lt;p&gt;Aproveito para agradecer ao &lt;a href=&#34;https://thiago.me/&#34;&gt;Thiago Pontes&lt;/a&gt; pelo auxílio na implementação de player utilizado neste projeto e ao &lt;a href=&#34;http://nic.br/&#34;&gt;NIC.br&lt;/a&gt; que apoiou todas as etapas desta pesquisa.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Curso de Web Semântica</title>
