@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://newtoncalegari.com.br/</loc>
-    <lastmod>2018-01-14T10:18:12-02:00</lastmod>
+    <loc>https://newtoncalegari.com.br/post/a-web-na-era-da-computacao-cognitiva/</loc>
+    <lastmod>2018-06-20T16:43:39-03:00</lastmod>
   </url>
   
   <url>
@@ -84,6 +85,34 @@
   <url>
     <loc>https://newtoncalegari.com.br/post/relato-cbie-laclo-e-webmedia2015/</loc>
     <lastmod>2015-11-23T23:57:50-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newtoncalegari.com.br/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://newtoncalegari.com.br/</loc>
+    <lastmod>2018-06-20T16:43:39-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://newtoncalegari.com.br/post/</loc>
+    <lastmod>2018-06-20T16:43:39-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://newtoncalegari.com.br/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://newtoncalegari.com.br/talk/</loc>
+    <lastmod>2017-10-20T16:53:56-02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
