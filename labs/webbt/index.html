@@ -5,35 +5,57 @@
 	<style type="text/css">
 		#b {
 			font-family: sans-serif;
-			color: #FFF;
+			color: #EEE;
 		}
 	</style>
 </head>
 <body id="b">
 <h1 id="text">WebBluetooth API</h1>
+<button id="btn">Bluetooth</button>
 </body>
 
 <script type="text/javascript">
 
-function checkAvailability(v) {
-	var b = document.getElementById('b')
+function updateAvailabilityStatus(v) {
+	let b = document.getElementById('b')
+	let h = document.getElementById('text')
 	console.log('checking...')
 	if (v) {
 		b.style.backgroundColor = '#008b00'
-		b.innerText = 'WebBluetooth API available :)';
+		h.innerText = 'WebBluetooth API available :)';
 	}
 	else {
 		b.style.backgroundColor = '#B00020'
-		b.innerText = 'WebBluetooth API not available';
-
+		h.innerText = 'WebBluetooth API not available';
 	}
-}
-	
-let avai = navigator.bluetooth.getAvailability()
-avai.then(r => checkAvailability())
-avai.then(r => console.log(r))
-avai.catch(err => console.log(err))
 
+}
+
+function checkAvailability() {
+	let avai = navigator.bluetooth.getAvailability()
+	avai.then(r => updateAvailabilityStatus())
+	avai.then(r => console.log(r))
+	avai.catch(err => console.log(err))
+}
+
+function triggerBT() {
+	let options = {
+		acceptAllDevices: true
+	}
+	var t = document.getElementById('text');
+	var bt = navigator.bluetooth.requestDevice(options)
+	bt.then(function(device) {
+		t.innerText(device.name);
+ 		console.log('Name: ' + device.name);
+ 	})
+ 	.catch(err => { console.log(err)} );
+
+ 	checkAvailability()
+}
+
+btn = document.getElementById('btn');
+
+btn.addEventListener('click', triggerBT);
 
 </script>
 
