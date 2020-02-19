@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>check bt</title>
+	<style type="text/css">
+		#b {
+			font-family: sans-serif;
+			color: #FFF;
+		}
+	</style>
+</head>
+<body id="b">
+<h1 id="text">WebBluetooth API</h1>
+</body>
+
+<script type="text/javascript">
+
+function checkAvailability(v) {
+	var b = document.getElementById('b')
+	console.log('checking...')
+	if (v) {
+		b.style.backgroundColor = '#008b00'
+		b.innerText = 'WebBluetooth API available :)';
+	}
+	else {
+		b.style.backgroundColor = '#B00020'
+		b.innerText = 'WebBluetooth API not available';
+
+	}
+}
+	
+let avai = navigator.bluetooth.getAvailability()
+avai.then(r => checkAvailability())
+avai.then(r => console.log(r))
+avai.catch(err => console.log(err))
+
+
+</script>
+
+</html>
