@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://newtoncalegari.com.br/</loc>
+    <lastmod>2018-06-20T16:43:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newtoncalegari.com.br/post/</loc>
+    <lastmod>2018-06-20T16:43:39-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://newtoncalegari.com.br/post/lendo-artigos-do-pocket-no-kindle/</loc>
     <lastmod>2018-01-14T10:18:12-02:00</lastmod>
   </url>
@@ -19,6 +29,11 @@
   
   <url>
     <loc>https://newtoncalegari.com.br/talk/palestra-fakenews/</loc>
+    <lastmod>2017-10-20T16:53:56-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newtoncalegari.com.br/talk/</loc>
     <lastmod>2017-10-20T16:53:56-02:00</lastmod>
   </url>
   
@@ -89,30 +104,10 @@
   
   <url>
     <loc>https://newtoncalegari.com.br/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://newtoncalegari.com.br/</loc>
-    <lastmod>2018-06-20T16:43:39-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://newtoncalegari.com.br/post/</loc>
-    <lastmod>2018-06-20T16:43:39-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://newtoncalegari.com.br/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://newtoncalegari.com.br/talk/</loc>
-    <lastmod>2017-10-20T16:53:56-02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

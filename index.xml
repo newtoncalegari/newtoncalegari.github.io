@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newton Calegari</title>
@@ -8,173 +7,25 @@
     <language>pt-br</language>
     <lastBuildDate>Wed, 20 Jun 2018 16:43:39 -0300</lastBuildDate>
     
-	<atom:link href="https://newtoncalegari.com.br/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://newtoncalegari.com.br/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Web na era da Computação Cognitiva</title>
-      <link>https://newtoncalegari.com.br/post/a-web-na-era-da-computacao-cognitiva/</link>
+      <title>Posts</title>
+      <link>https://newtoncalegari.com.br/post/</link>
       <pubDate>Wed, 20 Jun 2018 16:43:39 -0300</pubDate>
       
-      <guid>https://newtoncalegari.com.br/post/a-web-na-era-da-computacao-cognitiva/</guid>
-      <description>Créditos da imagem: John Keogh
-A Web possibilitou o surgimento de modelos de negócios revolucionários, negócios disruptivos que alteraram muitos mercados e passaram ter alcance global com facilidade. A utilização de aplicações baseadas em Inteligência Artificial transforma, novamente, esses negócios, levando-nos a um novo momento de revolução.
-A área de IA possui hoje a maturidade necessária para que seja aplicada em uma variedade cada vez maior de negócios, desde a entrega de comidas à aplicação em carros autônomos.</description>
+      <guid>https://newtoncalegari.com.br/post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Lendo artigos do Pocket no Kindle</title>
-      <link>https://newtoncalegari.com.br/post/lendo-artigos-do-pocket-no-kindle/</link>
-      <pubDate>Sun, 14 Jan 2018 10:18:12 -0200</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/post/lendo-artigos-do-pocket-no-kindle/</guid>
-      <description>Créditos da imagem: tablethelpline
-Sempre utilizei um bom e velho Kobo Touch como meu leitor de e-books. Era um guerreiro que ainda lutava bem, estava comigo desde 2011, mas era limitado pela falta de iluminação na tela, o que impossibilitava leituras em ambientes escuros.
-Uma das coisas que mais gostava nele era a possibilidade de sincronizar minha conta do Pocket e ler os artigos na confortável tela do e-reader, como se fossem livros.</description>
-    </item>
-    
-    <item>
-      <title>Labweb360</title>
-      <link>https://newtoncalegari.com.br/post/labweb360/</link>
-      <pubDate>Tue, 24 Oct 2017 15:50:38 -0200</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/post/labweb360/</guid>
-      <description>Durante um workshop sobre vídeo 360º realizado na Conferência Web.br 2017 lançamos o projeto Labweb360: o portal de boas práticas sobre vídeo 360º do Ceweb.br.
-
-Desenvolvi este projeto em conjunto com meu colega Diogo Cortiz. Como parte das atividades neste trabalho visitamos Mumbai, na Índia e Tóquio, Japão, onde fomos recebidos pelo professor Charith Fernando no laboratório Emboided Media da Keio University.
-A fim de compreender os aspectos relacionados ao uso de vídeo 360º como uma poderosa ferramenta de storytelling, gravamos um documentário, conduzido pelo Diogo e baseado na abordagem de documentário observativo, proposta por Bill Nichols.</description>
-    </item>
-    
-    <item>
-      <title>Palestra: Fake News na Web</title>
-      <link>https://newtoncalegari.com.br/talk/palestra-fakenews/</link>
+      <title>Talks</title>
+      <link>https://newtoncalegari.com.br/talk/</link>
       <pubDate>Fri, 20 Oct 2017 16:53:56 -0200</pubDate>
       
-      <guid>https://newtoncalegari.com.br/talk/palestra-fakenews/</guid>
-      <description>Palestra que apresentei em encontro interno no NIC.br abordando o tema &amp;ldquo;Fake News na Web&amp;rdquo;, mostrando como as notícias falsas e boatos se espalham, quais as medidas estão sendo tomadas e quais alternativas temos para lidar com este problema. Nesta apresentação vemos Fake News também como um problema social e não somente um problema de ordem tecnológica.
-  Fake News na Web  from Newton Calegari</description>
-    </item>
-    
-    <item>
-      <title>Palestra: Descomplicando Web Semântica</title>
-      <link>https://newtoncalegari.com.br/talk/descomplicando-web-semantica/</link>
-      <pubDate>Mon, 17 Jul 2017 17:09:16 +0100</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/talk/descomplicando-web-semantica/</guid>
-      <description>Esta palestra foi realizada no evento Full Stack Experience 2017, em São Paulo, onde mostrei como utilizar Web Semântica na rotina de desenvolvimento front-end.
-  Descomplicando Web Semântica  from Newton Calegari</description>
-    </item>
-    
-    <item>
-      <title>Curso de Web Semântica</title>
-      <link>https://newtoncalegari.com.br/post/curso-web-semantica/</link>
-      <pubDate>Tue, 06 Jun 2017 21:15:40 -0300</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/post/curso-web-semantica/</guid>
-      <description>Disponibilizo aqui o material apresentado no curso de Web Semântica e Processamento de Linguagem Natural na PUC-SP.
-Aula 01: Introdução e contexto  O surgimento da World Wide Web A evolução da Web e o desenvolvimento de aplicações A proposta da Web Semântica  Aula 01 - PDF
-Aula 02: Web Semântica  Os fundamentos da Web Semântica A pilha tecnológica da Web Semântica Ontologias e Vocabulários Estado da arte e exemplos  Aula 02 - PDF</description>
-    </item>
-    
-    <item>
-      <title>Minha sequência de escolhas</title>
-      <link>https://newtoncalegari.com.br/post/minha-sequencia-de-escolhas/</link>
-      <pubDate>Mon, 16 Jan 2017 22:08:27 -0200</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/post/minha-sequencia-de-escolhas/</guid>
-      <description>Sou fascinado por tecnologia e computadores desde a primeira vez que pressionei um botão no teclado e imediatamente vi o símbolo sendo renderizado num monitor de 10kg. Aquilo foi incrível! Foi fantástico poder interagir com uma máquina e perceber uma resposta tão imediata. Não demorou muito tempo após aquele momento para que eu passasse a interagir muito mais, recebendo informações e aprendendo com aquela máquina, e finalmente clicando em um ícone para descobrir o universo de conhecimento que estava disponível naquela tal de Web.</description>
-    </item>
-    
-    <item>
-      <title>Palestra: Vídeo na Web - indo além do elemento vídeo</title>
-      <link>https://newtoncalegari.com.br/talk/video-na-web-braziljs/</link>
-      <pubDate>Thu, 01 Sep 2016 14:29:16 -0300</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/talk/video-na-web-braziljs/</guid>
-      <description>Nesta palestra apresentei sobre o contexto dos vídeos na Web, mostrando dados e tendências que confirmam o crescimento de conteúdos em vídeo disponibilizados na Web.
-Em relação aos aspéctos técnicos, mostrei como aplicar a abordagem de adaptative bitrate, utilizando o padrão MPEG-DASH e a extensão Media Source Extensions, padronizada pelo W3C.
-Vídeo da palestra:
- Slides da palestra:
- Atualização dia 19/09/2016: adicionando o vídeo da palestra.</description>
-    </item>
-    
-    <item>
-      <title>Palestra: A Semântica na Web e os dados estruturados no Google</title>
-      <link>https://newtoncalegari.com.br/talk/dados-estruturados-na-web-frontinbh2016/</link>
-      <pubDate>Mon, 15 Aug 2016 18:15:12 -0300</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/talk/dados-estruturados-na-web-frontinbh2016/</guid>
-      <description>Palestra sobre Web Semântica voltada para desenvolvedores realizada no FrontInBH 2016, na qual apresento sobre a evolução da Web (Web de Documentos para Web de Dados), as aplicações e usos práticos de semântica na Web.
-Apresento também sobre RDFa, JSON-LD e Schema.org, mostrando exemplos de como o Google utiliza Web Semântica para melhorar seus produtos.
-Vídeo da palestra:
- Slides:
- Atualização dia 19/09/2016: adicionando o vídeo da palestra.</description>
-    </item>
-    
-    <item>
-      <title>Mestrado: anotações semânticas na Web</title>
-      <link>https://newtoncalegari.com.br/post/mestrado-anotacoes-semanticas-web/</link>
-      <pubDate>Mon, 15 Aug 2016 14:49:41 -0300</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/post/mestrado-anotacoes-semanticas-web/</guid>
-      <description>Eu pesquisei durante o mestrado em Tecnologias de Inteligência e Design Digital (TIDD) da PUC-SP sobre anotações semânticas na Web.
-Na minha dissertação eu apresentei os fundamentos teóricos de Web Semântica, os conceitos sobre Ontologias e Vocabulários, o estado da arte com as aplicações que utilizam conceitos e tecnologias relacionados à Web Semântica, e por fim a proposta de uma ferramenta de anotações semânticas.
-Resumo da dissertação:
- A proposta apresentada nesta pesquisa busca aproximar as tecnologias de Web Semântica dos usuários publicadores de conteúdo na Web, permitindo que estes contribuam com a geração de dados estruturados e metadados sobre textos e informações que venham a disponibilizar na Web.</description>
-    </item>
-    
-    <item>
-      <title>Palestra: Desafios e boas práticas para publicação de dados na Web</title>
-      <link>https://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</link>
-      <pubDate>Mon, 06 Jun 2016 10:15:00 -0300</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/talk/boas-praticas-dwbp-conip/</guid>
-      <description>Palestra realizada no evento Conip 2016, em São Paulo, no dia 06 de Junho de 2016, apresentando os desafios para publicação de dados listados no documento Data on the Web Best Practices.
-  Boas práticas para publicação de dados na Web  from Newton Calegari</description>
-    </item>
-    
-    <item>
-      <title>Palestra: O histórico das CSS</title>
-      <link>https://newtoncalegari.com.br/talk/historico-das-css/</link>
-      <pubDate>Sat, 07 May 2016 19:00:00 -0300</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/talk/historico-das-css/</guid>
-      <description>Slides da palestra &amp;ldquo;O histórico das CSS&amp;rdquo; realizada no CSSDay, dia 07 de Maio de 2016, em Maceió, AL.
- </description>
-    </item>
-    
-    <item>
-      <title>Por onde começar a estudar Web Semântica</title>
-      <link>https://newtoncalegari.com.br/post/por-onde-comecar-estudar-web-semantica/</link>
-      <pubDate>Tue, 08 Dec 2015 11:06:37 -0200</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/post/por-onde-comecar-estudar-web-semantica/</guid>
-      <description>O @ivomarsan me perguntou sobre algumas recomendações e conteúdo para estudar Web Semântica.
-@newtoncalegari Recomendaria estudar apenas pela documentação ou existe outro manual legal?
-&amp;mdash; Ivomar (@ivomarsan) 1 dezembro 2015 
-Como 140 caracteres não seriam suficientes para responder, publiquei um post no site do Centro Web indicando alguns recursos úteis, como o livro de Dados Abertos Conectados, para quem está interessado em aprender mais sobre o assunto.</description>
-    </item>
-    
-    <item>
-      <title>Web Semântica no Rock and Code 2015</title>
-      <link>https://newtoncalegari.com.br/post/web-semantica-no-rock-and-code-2015/</link>
-      <pubDate>Tue, 01 Dec 2015 10:16:19 -0200</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/post/web-semantica-no-rock-and-code-2015/</guid>
-      <description>No último final de semana (28/11/2015) aconteceu o Rock and Code 2015 em Aracaju, SE - nos mesmos moldes do FrontInAracaju - organizado pelo Italo e pelo Julio. Que evento show!
-Como na edição passada, também tivemos a banda e o Juarez Filho cuidando da apresentação dos palestrantes no estilo talk-show.
-(Foto disponível na página do FrontInAracaju no facebook)
-A programação era ótima, muitas palestrantes de qualidade, como o Maujor, Ciro Nunes, Gui Farias, Devid Marques, André Garzia (o cara que sabe tudo sobre scripts, sejam eles para filmes ou então em Javascript :-) ), Bernard de Luna, Giovanni Keppelen, Jaydson Gomes, entre outros.</description>
-    </item>
-    
-    <item>
-      <title>Palestra: Web Semântica para desenvolvedores</title>
-      <link>https://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</link>
-      <pubDate>Mon, 30 Nov 2015 11:00:00 -0300</pubDate>
-      
-      <guid>https://newtoncalegari.com.br/talk/web-semantica-para-desenvolvedores-frontinaracaju/</guid>
-      <description>Nesta palestra apresentei os conceitos inciais de Web Semântica bem como as dicas para utilização de RDFa, JSON-LD e Schema.org
-  Web Semântica para desenvolvedores: RDFa, JSON-LD e schema.org  from Newton Calegari</description>
+      <guid>https://newtoncalegari.com.br/talk/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -183,19 +34,28 @@ A programação era ótima, muitas palestrantes de qualidade, como o Maujor, Cir
       <pubDate>Sun, 29 Nov 2015 14:02:37 +0200</pubDate>
       
       <guid>https://newtoncalegari.com.br/about/</guid>
-      <description>Olá,
-meu nome é Newton Calegari, sou Bacharel em Ciência Computação pela PUC-SP e mestre em Tecnologias da Inteligência e Design Digital, programa no qual pesquisei sobre anotações semânticas para Web sob a orientação do Professor Dr. Demi Getschko.
-Atualmente eu trabalho no W3C Brasil e no Ceweb.br - Centro de Estudos sobre Tecnologias Web do NIC.br, pesquisando e atuando na área de padronização e recomendações, dados na web e Web Semântica, Open Web Platform e tecnologias emergentes na Web.</description>
+      <description>&lt;p&gt;Olá,&lt;/p&gt;
+
+&lt;p&gt;meu nome é Newton Calegari, sou Bacharel em Ciência Computação pela PUC-SP e mestre em &lt;em&gt;Tecnologias da Inteligência e Design Digital&lt;/em&gt;, programa no qual pesquisei sobre anotações semânticas para Web sob a orientação do Professor Dr. Demi Getschko.&lt;/p&gt;
+
+&lt;p&gt;Atualmente eu trabalho no &lt;a href=&#34;http://w3c.br&#34;&gt;W3C Brasil&lt;/a&gt; e no &lt;a href=&#34;http://ceweb.br&#34;&gt;Ceweb.br&lt;/a&gt; - &lt;em&gt;Centro de Estudos sobre Tecnologias Web&lt;/em&gt; do &lt;a href=&#34;http://nic.br&#34;&gt;NIC.br&lt;/a&gt;, pesquisando e atuando na área de padronização e recomendações, dados na web e Web Semântica, &lt;span lang=&#34;en&#34;&gt;Open Web Platform&lt;/span&gt; e tecnologias emergentes na Web.
+Fui editor da recomendação W3C &lt;a href=&#34;http://w3.org/TR/dwbp/&#34;&gt;Data on The Web Best Practices&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fique a vontado em me enviar mensagens no &lt;a href=&#34;http://twitter.com/newtoncalegari&#34;&gt;twitter @newtoncalegari&lt;/a&gt;, no &lt;a href=&#34;http://fb.com/newtoncalegari&#34;&gt;facebook&lt;/a&gt; ou email (&lt;em&gt;newtoncalegari [at] gmail.com, ou newton [at] nic.br&lt;/em&gt;) para conversarmos sobre qualquer assunto interessante relacionado à Web :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Atualização&lt;/strong&gt;: escrevi &lt;a href=&#34;https://newtoncalegari.com.br/post/minha-sequencia-de-escolhas/&#34;&gt;um texto mostrando a sequência de escolhas&lt;/a&gt; que me possibilitaram trabalhar com o que trabalho hoje e qual é o combustível que me motiva para atuar nesta área.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
     </item>
     
     <item>
-      <title>Participação no CBIE/LACLO e WebMedia 2015</title>
-      <link>https://newtoncalegari.com.br/post/relato-cbie-laclo-e-webmedia2015/</link>
-      <pubDate>Mon, 23 Nov 2015 23:57:50 -0200</pubDate>
+      <title>Drafts</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://newtoncalegari.com.br/post/relato-cbie-laclo-e-webmedia2015/</guid>
-      <description>Participação nos eventos CBIE/LACLO e WebMedia 2015 A última semana de Outubro foi, sem dúvida, muito interessante, porém um pouco agitada. No início da semana fui para Maceió, AL, para participar do CBIE/LACLO (IV Congresso Brasileiro de Informática na Educação e X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem), um evento gigantesco com diversas trilhas simultâneas.
-Além do CBIE/LACLO que ocorreu entre os dias 26 e 30 de Outubro, aconteceu em Manaus, capital do estado do Amazonas, o 21º Simpósio Brasileiro de Multimídia e Web (WebMedia 2015), no período de 27 a 30 de Outubro.</description>
+      <guid></guid>
+      <description></description>
     </item>
     
   </channel>
