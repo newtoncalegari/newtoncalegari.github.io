@@ -1,4 +1,2 @@
-User-agent: *
+User-Agent: *
 Disallow: 
-Disallow: /draft
-Disallow: /draft/
