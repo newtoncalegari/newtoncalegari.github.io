@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Newton Calegari]]></title><description><![CDATA[💻 Product Manager | 📚 CS & Design Professor]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 26 May 2020 02:23:14 GMT</lastBuildDate><item><title><![CDATA[A Web na era da Computação Cognitiva]]></title><description><![CDATA[O termo computação cognitiva surgiu para descrever a capacidade que damos às máquinas de simular alguns processos cognitivos realizados pelo nosso cérebro.]]></description><link>https://newtoncalegari.com.br/post/a-web-na-era-da-computacao-cognitiva/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/a-web-na-era-da-computacao-cognitiva/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Wed, 20 Jun 2018 19:43:39 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/img/web-computacao-cognitiva-new-worlds.jpg&quot; alt=&quot;Foto de um dispositivo Kindle&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Newton Calegari]]></title><description><![CDATA[💻 Product Manager | 📚 CS & Design Professor]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 26 May 2020 04:19:51 GMT</lastBuildDate><item><title><![CDATA[Um novo blog]]></title><description><![CDATA[Após alguns anos utilizando Hugo como base do meu site/blog, eu migrei para o Gatsby.]]></description><link>https://newtoncalegari.com.br/post/um-novo-blog/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/um-novo-blog/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Tue, 26 May 2020 02:49:23 GMT</pubDate><content:encoded>&lt;p&gt;Venho utilizando o Github para hospedar arquivos estáticos há alguns anos e não tenho nada do que reclamar. É bem simples, basta adicionar ao repositório todos os arquivos que quer que sejam disponibilizados na Web e pronto. Bem fácil.&lt;/p&gt;
+&lt;p&gt;A versão anterior deste blog era feita com &lt;a href=&quot;https://gohugo.io/&quot;&gt;Hugo&lt;/a&gt;, uma ferramenta para geração de páginas estáticas escrita na linguagem Go. O Hugo gerava todos os arquivos necessários para o site, incluindo os posts, o sitemap, etc. Só me restava escrever os textos e rodar um comando no terminal para que o site fosse atualizado (&lt;em&gt;claro que com WordPress é fácil, mas aqui tem seu charme, rs)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Embora eu não publique muita coisa por aqui, eu gosto dessa dinâmica em que todo conteúdo é escrito em &lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;markdown&lt;/a&gt; e com uma &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;biblioteca de geração de sites estáticos&lt;/a&gt; todas as páginas HTML ficam prontas para serem publicadas.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b1772a7f438ff4971111f4afc912a499/cf4cc/screenshot-goyo-markdown.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABVklEQVQoz5WTWVPCQBCEEQEJhwIJUany3VK5IXcgIUAgHrz5//9J25MC1JIqw8NXs5Nsejo7s7ncs4EjT9M0FnoWSj0bRcaixIGLQpfrvoNS3yUO8l3zuP8Xfx5wU9NZQo920MN3aIsP6JtPtIMd2vYrNCuBbr+hPg4yCO43KCMPyniGymTO6KMqTJiP/BSFlIbeGQ7dGB0/wa2zwZ27xb2XMOfaX6Ezi1NurMVecPq/4LWx4K/FUM016nRZNSPUjAiVYUDmXC+gMM/mkNT4u5oXQ3PWaJlLtKwViaDSVYrNAjyCzGfYMALosy1UCmoUUwVbhEM0ScsMWdTPfoZSvWkGUIZu2pAKm3Sg7a7wECZ8d0ZTZHODLsoUFCSX2bt4MVlsTudLzqp9xthQQISuBoKTjlFZhpsi6UA/jr/FJP4UPuXwkrdCkI/zdHXI5QaJqDg91UzhC/sOPADMYgwzAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tela do terminal com exemplo de texto do blog&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b1772a7f438ff4971111f4afc912a499/d9199/screenshot-goyo-markdown.png&quot;
+        srcset=&quot;/static/b1772a7f438ff4971111f4afc912a499/8ff5a/screenshot-goyo-markdown.png 240w,
+/static/b1772a7f438ff4971111f4afc912a499/e85cb/screenshot-goyo-markdown.png 480w,
+/static/b1772a7f438ff4971111f4afc912a499/d9199/screenshot-goyo-markdown.png 960w,
+/static/b1772a7f438ff4971111f4afc912a499/cf4cc/screenshot-goyo-markdown.png 1079w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;span class=&quot;image-credits&quot;&gt;Estou utilizando um modo &lt;em&gt;distraction-free&lt;/em&gt; para escrever os posts no &lt;code class=&quot;language-text&quot;&gt;vim&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O motivo de eu ter decidido migrar a ferramenta por trás do meu site é o fato de eu ter encontrao alguns problemas para disponibilizar o &lt;a href=&quot;https://pt.wikipedia.org/wiki/RSS&quot;&gt;feed RSS&lt;/a&gt; completo através do Hugo, já que o comportamento padrão gerava uma versão com os artigos resumidos, o que acho que deixa ruim a experiência de consumir conteúdo por meio de RSS em alguma plataforma, como o &lt;a href=&quot;https://feedly.com/&quot;&gt;feedly&lt;/a&gt; ou &lt;a href=&quot;https://newsblur.com/&quot;&gt;NewsBlur&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Eu queria uma alternativa tão simples quanto o Hugo para essa nova versão do site. Cheguei a considerar o Jekyll, mas decidi buscar algo mais novo. Vi que o &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt; possui vários plugins, inclusive um que facilita a geração de RSS completos, como eu estava querendo. Então, após trabalhar algumas horas nos últimos dois domingos, publiquei o novo site.&lt;/p&gt;
+&lt;p&gt;A migração foi relativamente tranquila pois todos os posts foram escritos em markdown. Eu tive apenas que converter os dados do &lt;em&gt;frontmatter&lt;/em&gt; para o formato YAML.&lt;/p&gt;
+&lt;p&gt;O comando abaixo resolveu isso bem rápido:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt; hugo convert toYAML --output /destino/dos/posts/convertidos/&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Após ter preparado todo o conteúdo, eu fiz alguns ajustes no tema e gerei o novo site. &lt;/p&gt;
+&lt;p&gt;Achei que foi uma boa ter escolhido utilizar o Gatsby, eu ainda não conhecia a respeito e o aprendizado foi bem rápido. Coincidentemente, o &lt;a href=&quot;https://fellipe.com&quot;&gt;Davidson Fellipe&lt;/a&gt; estava publicando em seu &lt;a href=&quot;https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg&quot;&gt;canal no YouTube&lt;/a&gt; uma série sobre como criar um blog com Gatsby, então ele acabou me ajudando com algumas dúvidas que tive nesse processo.&lt;/p&gt;
+&lt;p&gt;Eu ainda venho alterando algumas coisas por aqui, estou melhorando a estrutura do feed rss e adicionando &lt;a href=&quot;/talk/dados-estruturados-na-web-frontinbh2016/&quot;&gt;dados estruturados com JSON-LD e RDFa&lt;/a&gt; ao layout. &lt;/p&gt;
+&lt;p&gt;Essa atualização no site foi um bom passa tempo para esses dias de quarentena. 😃&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Web na era da Computação Cognitiva]]></title><description><![CDATA[O termo computação cognitiva surgiu para descrever a capacidade que damos às máquinas de simular alguns processos cognitivos realizados pelo nosso cérebro.]]></description><link>https://newtoncalegari.com.br/post/a-web-na-era-da-computacao-cognitiva/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/a-web-na-era-da-computacao-cognitiva/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Wed, 20 Jun 2018 19:43:39 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/img/web-computacao-cognitiva-new-worlds.jpg&quot; alt=&quot;Foto de um dispositivo Kindle&quot;&gt;
 &lt;span class=&quot;image-credits&quot;&gt;Créditos da imagem: &lt;a href=&quot;https://www.flickr.com/photos/jvk/13713015123/&quot;&gt;John Keogh&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;A Web possibilitou o surgimento de modelos de negócios revolucionários, negócios disruptivos que alteraram muitos mercados e passaram ter alcance global com facilidade. A utilização de aplicações baseadas em Inteligência Artificial transforma, novamente, esses negócios, levando-nos a um novo momento de revolução.&lt;/p&gt;
 &lt;p&gt;A área de IA possui hoje a maturidade necessária para que seja aplicada em uma variedade cada vez maior de negócios, desde a entrega de comidas à aplicação em carros autônomos.&lt;/p&gt;
