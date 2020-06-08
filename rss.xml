@@ -1,4 +1,284 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Newton Calegari]]></title><description><![CDATA[💻 Product Manager | 📚 CS & Design Professor]]></description><link>https://newtoncalegari.com.br/</link><image><url>https://newtoncalegari.com.br/newton.png</url><title>Newton Calegari</title><link>https://newtoncalegari.com.br/</link></image><generator>GatsbyJS</generator><lastBuildDate>Sat, 30 May 2020 02:53:48 GMT</lastBuildDate><atom:link href="https://newtoncalegari.com.br/rss" rel="self" type="application/rss+xml"/><language><![CDATA[pt-BR]]></language><webMaster><![CDATA[https://newtoncalegari.com.br/]]></webMaster><item><title><![CDATA[Um novo blog]]></title><description><![CDATA[Após alguns anos utilizando Hugo como base do meu site, eu migrei para o Gatsby.]]></description><link>https://newtoncalegari.com.br/post/um-novo-blog/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/um-novo-blog/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Tue, 26 May 2020 02:49:23 GMT</pubDate><content:encoded>&lt;p&gt;Venho utilizando o Github para hospedar arquivos estáticos há alguns anos e não tenho nada do que reclamar. É bem simples, basta adicionar ao repositório todos os arquivos que devem ser disponibilizados na Web e pronto. Bem fácil.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Newton Calegari]]></title><description><![CDATA[💻 Product Manager | 📚 CS & Design Professor]]></description><link>https://newtoncalegari.com.br/</link><image><url>https://newtoncalegari.com.br/newton.png</url><title>Newton Calegari</title><link>https://newtoncalegari.com.br/</link></image><generator>GatsbyJS</generator><lastBuildDate>Mon, 08 Jun 2020 14:48:20 GMT</lastBuildDate><atom:link href="https://newtoncalegari.com.br/rss" rel="self" type="application/rss+xml"/><language><![CDATA[pt-BR]]></language><webMaster><![CDATA[https://newtoncalegari.com.br/]]></webMaster><item><title><![CDATA[Um pouco sobre a história do RSS]]></title><description><![CDATA[Quando o consumo de conteúdo não passava pelo filtro das redes sociais.]]></description><link>https://newtoncalegari.com.br/post/um-pouco-sobre-a-história-do-rss/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/um-pouco-sobre-a-história-do-rss/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Mon, 08 Jun 2020 14:04:31 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 640px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABVRkssoEBX//EABkQAQADAQEAAAAAAAAAAAAAAAIAAQMSE//aAAgBAQABBQLTbjY64axKqfqpQLINc//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAQACAQUAAAAAAAAAAAAAAAEAIREQEkFSYf/aAAgBAQAGPwIcUToxCw5l34zcGNP/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUFRcf/aAAgBAQABPyFnL83s22T2ZxJQHcb1VH4RhY+EpJ//2gAMAwEAAgADAAAAEEvv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/ENSFv//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEVH/2gAIAQIBAT8QQbDl/8QAHRABAQACAQUAAAAAAAAAAAAAAREAMVEhYXGBsf/aAAgBAQABPxDXp9YLtkm3nIXzr5nVnkAGEmXqhfTjEIWilHFslXef/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Imagem de uma máquina de escrever com uma folha com o título &quot;News&quot;&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9529974209df5f458acbb7921cad47a2/c08c5/img-typewriter-news.jpg&quot;
+        srcset=&quot;/static/9529974209df5f458acbb7921cad47a2/09b79/img-typewriter-news.jpg 240w,
+/static/9529974209df5f458acbb7921cad47a2/7cc5e/img-typewriter-news.jpg 480w,
+/static/9529974209df5f458acbb7921cad47a2/c08c5/img-typewriter-news.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+&lt;span class=&quot;image-credits&quot;&gt;Imagem por &lt;a href=&quot;https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;#x26;utm_medium=referral&amp;#x26;utm_content=creditCopyText&quot;&gt;Markus Winkler&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Veja se este cenário é familiar para você: &lt;em&gt;existe um site que você gosta; você o acessa todo dia para ver o que tem de novidade; você também gosta de outro site e também o acessa todo dia para ver se tem conteúdo novo; você também gosta deoutros 20 sites e blogs, e acessa todos eles diariamente para ver as novidades.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Nessas idas e vindas você deve ter notado que nem todos esses sites atualizam o conteúdo com a mesma frequência que você acessa.&lt;/p&gt;
+&lt;p&gt;Não seria melhor se você fosse avisado quando publicarem algo novo? Ou ainda melhor se quando publicarem algo novo já te enviarem o conteúdo? Assim você não precisaria nem sequer acessar essa sua lista de sites todo dia, pois quando algo novo surgir, você não somente vai ser avisado, como também já receberá o conteúdo para ler.&lt;/p&gt;
+&lt;p&gt;Essa dinâmica de receber o conteúdo sem ter que acessar o site é possibilitada por meio dos &lt;strong&gt;feeds RSS&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Como este artigo está um pouco longo, eu dividi em seções para facilitar a leitura:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#o-que-e-feed-rss&quot;&gt;O que é um feed RSS?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#como-ler-rss&quot;&gt;Como posso ler RSS?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#consumo-de-conteudo&quot;&gt;Novos modos de consumir conteúdo e a queda no uso de RSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#o-icone-rss&quot;&gt;O ícone do RSS: &lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#o-que-me-fez-voltar-a-ler-feeds&quot;&gt;O que me fez voltar a ler feeds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#solucoes-inclusivas&quot;&gt;Oportunidade para pensar em soluções inclusivas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;a name=&quot;o-que-e-feed-rss&quot;&gt;&lt;/a&gt;O que é um feed RSS?&lt;/h2&gt;
+&lt;p&gt;Hoje não é tão frequente como já foi há um tempo na Web, mas era comum acessarmos os sites e nos depararmos com um botão, uma imagem ou uma chamada pedindo para &lt;strong&gt;assinar o feed&lt;/strong&gt;, muitas vezes acompanhada de um ícone igual a esse &lt;i class=&quot;icon-rss&quot; style=&quot;background: orange; color: #FFF; border-radius: 4px;&quot;&gt;&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;O ato de assinar o feed significava que você poderia consumir o conteúdo publicado naquele site por meio de alguma plataforma externa, como os &lt;strong&gt;agregadores de feed&lt;/strong&gt; ou &lt;strong&gt;leitores rss&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Um feed RSS nada mais é que um arquivo escrito em uma linguagem estruturada com marcação específica, ou seja, uma linguagem igual à &lt;code class=&quot;language-text&quot;&gt;HTML&lt;/code&gt;, mas com um conjunto de &lt;em&gt;tags&lt;/em&gt; diferentes.
+No caso dos feeds, &lt;code class=&quot;language-text&quot;&gt;XML&lt;/code&gt; é a linguagem utilizada.&lt;/p&gt;
+&lt;p&gt;Um blog, por exemplo, possui título, descrição, autora ou autor e uma sequência de artigos, ou posts. Esse exemplo pode ser transformado em um feed de maneira relativamente simples: esse conjunto de informações deverá ser escrito na linguagem &lt;code class=&quot;language-text&quot;&gt;XML&lt;/code&gt; utilizando uma marcação específica, a fim de que o arquivo possa ser lido por uma outra aplicação - nesse caso, por um agregador de feed.&lt;/p&gt;
+&lt;p&gt;Na estrutura do arquivo RSS, o site onde os artigos são publicados é definido como o &lt;code class=&quot;language-text&quot;&gt;&amp;lt;channel&lt;/code&gt;&gt;, que possui &lt;code class=&quot;language-text&quot;&gt;&amp;lt;title&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;&amp;lt;description&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;&amp;lt;link&amp;gt;&lt;/code&gt;, assim como um arquivo &lt;code class=&quot;language-text&quot;&gt;HTML&lt;/code&gt;. Enquanto os artigos, ou posts, publicados nesse “canal”, são definidos como &lt;code class=&quot;language-text&quot;&gt;&amp;lt;item&amp;gt;&lt;/code&gt;, e também possuem informações como título, descrição (conteúdo) e link.&lt;/p&gt;
+&lt;p&gt;Este é um exemplo de um feed RSS escrito em &lt;code class=&quot;language-text&quot;&gt;XML&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;xml&quot;&gt;&lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;rss&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;2.0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;channel&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Newton Calegari&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;https://newtoncalegari.com.br/&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;link&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;description&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;...&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;description&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;language&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;pt-br&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;language&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;item&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Um pouco da história do RSS&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;https//newtoncalegari.com.br/post/um-pouco-sobre-rss/&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;link&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;description&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Você gosta de um site. Você acessa todo dia para ver o que tem de novidade. Você gosta de outro site. Acessa todo dia para ver se tem conteúdo novo. Você gosta de 50 sites, blogs, portais de notícias, e acessa todo dia para ver as novidades. Nessas idas e vindas nesses sites você pode notar que nem todos atualizam com a mesma frequência que você acessa...&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;description&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;item&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;item&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Um novo blog&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;https://newtoncalegari.com.br/um-novo-blog/&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;link&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;description&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Venho utilizando o Github para hospedar arquivos estáticos há alguns anos e não tenho nada do que reclamar. É bem simples, basta adicionar ao repositório todos os arquivos que devem ser disponibilizados na Web e pronto. Bem fácil...
+      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;description&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;item&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;channel&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;rss&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Toda vez que um artigo novo é publicado, este arquivo RSS é atualizado e um &lt;code class=&quot;language-text&quot;&gt;&amp;lt;item&amp;gt;&lt;/code&gt; novo é adicionado a ele. &lt;/p&gt;
+&lt;p&gt;Quando você &lt;strong&gt;assina um feed&lt;/strong&gt;, a URL para o arquivo RSS do site é salva no seu agregador de feeds favorito e este, por sua vez, faz requisições HTTP periódicas para verificar se há alguma atualização algum o artigo novo para leitura.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;como-ler-rss&quot;&gt;&lt;/a&gt;Como posso ler RSS?&lt;/h2&gt;
+&lt;p&gt;Os feeds RSS podem ser lidos por meio dos agregadores de feeds e, embora já tenha existido mais, ainda há alguns leitores disponíveis.&lt;/p&gt;
+&lt;p&gt;Atualmente eu utilizo o &lt;a href=&quot;https://newsblur.com/&quot;&gt;NewsBlur&lt;/a&gt;, mas existem outros que também são ótimos, como o &lt;a href=&quot;https://feedly.com/&quot;&gt;feedly&lt;/a&gt;, o &lt;a href=&quot;https://theoldreader.com/&quot;&gt;The Old Reader&lt;/a&gt; e o &lt;a href=&quot;https://ranchero.com/netnewswire/&quot;&gt;NetNewsWire&lt;/a&gt; - este último é não possui versão Web, apenas versões para Mac e iOS.&lt;/p&gt;
+&lt;p&gt;Por bastante tempo busquei um substituo a altura para o &lt;a href=&quot;https://pt.wikipedia.org/wiki/Google_Reader&quot;&gt;Google Reader&lt;/a&gt;, o que eu considerava o melhor leitor de RSS que existia (&lt;em&gt;antes de usar o Google Reader em 2006, eu utilizei o &lt;a href=&quot;https://en.wikipedia.org/wiki/Bloglines&quot;&gt;Bloglines&lt;/a&gt;&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c5150f570bbed1ecf58a46c0d8232861/00d43/interface-google-reader.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 45.833333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABZklEQVQoz12R63KCQAyFeXFerr/6AiosgqzcYVp0oXJPmkSFUmbOhB1Ovpws1lcUw/3rBoAIy7LANE0wjqOobX+gfxg4xAMckpks5IHt4fM8z9wz0jvmeW5b1ecH9FnMZ6y/azTGYNu2aBqDXddh07TUNsl3mocAC9WnmEkeqOtaDFmW2VZ9u0E/ygCgCZAkCVRVBVprCMPwWUmXUMP1eoU4jiHNUkjTRLzcU5blNBAjCALbKosCusdDgGmaIpmQDOi6Lp5OJ3QcZ63UgFqHJP2SvDN86vsez+ezbVFMnoDDMPC0FcgAh6CuSMmZEiOlFNi7UgjuE6Dv+7bFkY1pdgmrqpRUnucJUCmPp6/AtxjIV7ADHo5HiKKILxgorTQxWCklcl8peV3WfyjfK/k3oO8HcL8bScjAmBIWRbGm40pGvFwuu1X/Aqlvu8PAU2Ca58pZnq2N27rqlUrvQO8fQ9utCcln/wLiTJhOObTxUwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Interface do Google Reader&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c5150f570bbed1ecf58a46c0d8232861/d9199/interface-google-reader.png&quot;
+        srcset=&quot;/static/c5150f570bbed1ecf58a46c0d8232861/8ff5a/interface-google-reader.png 240w,
+/static/c5150f570bbed1ecf58a46c0d8232861/e85cb/interface-google-reader.png 480w,
+/static/c5150f570bbed1ecf58a46c0d8232861/d9199/interface-google-reader.png 960w,
+/static/c5150f570bbed1ecf58a46c0d8232861/00d43/interface-google-reader.png 1000w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;span class=&quot;image-credits&quot;&gt;Interface do Google Reader em 2007, 6 anos antes de ser descontinuado pela Google &lt;i&gt;😔&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A leitura de artigos meio dos feeds te proporciona uma experiência de &lt;strong&gt;consumir conteúdo sem intermediários filtrando o o que você deve ou não ler&lt;/strong&gt;. É você quem escolhe quais canais/sites/blogs quer acompanhar e ter acesso direto ao conteúdo deles.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;consumo-de-conteudo&quot;&gt;&lt;/a&gt;Novos modos de consumir conteúdo e a queda no uso de RSS&lt;/h2&gt;
+&lt;p&gt;Existem algumas hipóteses para a redução do consumo e disponibilização dos feeds, entre elas estão “a morte do Google Reader”, o fim do suporte nativo dos navegadores, como foi &lt;a href=&quot;https://www.bleepingcomputer.com/news/software/mozilla-to-remove-support-for-built-in-feed-reader-from-firefox/&quot;&gt;o caso no Firefox&lt;/a&gt;, e a ascenção das ferramentas de redes sociais como plataformas de acesso à conteúdo.&lt;/p&gt;
+&lt;p&gt;O interesse por RSS caiu bastante ao longo dos anos e esse fato foi utilizado como justificativa para o fim de algumas alternativas, como &lt;a href=&quot;http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html&quot;&gt;o fim do Google Reader&lt;/a&gt;. Mas ainda assim não é o suficiente para explicar essa queda no interesse e no uso de fontes RSS.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f994acf559f0c5f6cc8eb5dd41a52a83/8b69f/rss-trends.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 912px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 44.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAAA/0lEQVQoz51Sy27DMAzL/3/fDjsUu6xbsdlxnnYaWzInOXPaAsthDcAIkgKKotKMk8eXcZjnCd77ghDCHv9C7TnnYIyBtbag73s02mjbVpodhnFEjAlE9C8sy7IPa1gKzBnIDHkV5Pw8miSESjKvGa+WECLvpPwMIRWFjJdvwsdIeOsIxvOmGvlBtdY4H6MQIhPOA2Fabyu7wELO+JwYw5XhRbV+fD/gCMXDSOrhTYE2NK5Sb4VcFZ9lwMlRGTCvG3zcrKq58pSVU4oCua6sXi/H/Iu0yr0SYiJcI6ELBOsJ73bEpV9g5oRWco3qf1MJjkxO9S94WE0fsYjpLt96P1ljwxpHc94TAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Gráfico com interesse por RSS no Google Trends&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f994acf559f0c5f6cc8eb5dd41a52a83/8b69f/rss-trends.png&quot;
+        srcset=&quot;/static/f994acf559f0c5f6cc8eb5dd41a52a83/8ff5a/rss-trends.png 240w,
+/static/f994acf559f0c5f6cc8eb5dd41a52a83/e85cb/rss-trends.png 480w,
+/static/f994acf559f0c5f6cc8eb5dd41a52a83/8b69f/rss-trends.png 912w&quot;
+        sizes=&quot;(max-width: 912px) 100vw, 912px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;span class=&quot;image-credits&quot;&gt;O interesse por RSS caiu porque não há incentivo e suporte, ou não há incentivo e suporte porque o interesse caiu? &lt;i&gt;🥚 🐔&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Talvez a mudança mais impactante tenha sido a ascenção das &lt;strong&gt;redes sociais como plataformas de consumo de conteúdo&lt;/strong&gt;. A partir do momento que os esforços são voltados para melhorar indicadores de tempo de uso e permanência dentro de uma plataforma, tudo se encaminha para a criação de silos e jardins murados na Web (veja mais sobre &lt;em&gt;walled gardens&lt;/em&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Closed_platform&quot;&gt;nestes&lt;/a&gt; &lt;a href=&quot;https://readwrite.com/2015/05/13/walled-gardens-of-the-web/&quot;&gt;links&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Os feeds RSS são um caminho oposto à centralização gerada por tais plataformas fechadas, pois tanto o protocolo quanto o meio que os artigos e notícias chegarão até você são &lt;strong&gt;totalmente transparentes&lt;/strong&gt;. Não existe uma caixa preta ou algum modelo para indicar o que &lt;em&gt;a plataforma acredita ser melhor para você&lt;/em&gt;. &lt;strong&gt;É você quem define de quais sites/blogs vai assinar os feeds RSS&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hoje é ainda mais importante olharmos com atenção para os feeds RSS, pois são uma forma de consumo de conteúdo descentralizado.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Apesar de esses fatores terem afetado o atual cenário dos feeds RSS, há outros pontos que poderiam ser revistos, como a própria evolução da tecnologia como um produto.&lt;/p&gt;
+&lt;p&gt;O ambiente em que essa tecnologia surgiu e evoluiu foi naturalmente um pouco restritivo. Não foi pensado como um produto para o público em geral. É claro que o protocolo foi criado para chegar ao alcance de todos, mas o processo de entrega desse “produto” poderia ter sido melhor.&lt;/p&gt;
+&lt;p&gt;Pessoas com algum conhecimento específico (&lt;em&gt;em web, linux, internet&lt;/em&gt;) eram as que mais utilizavam feeds.&lt;/p&gt;
+&lt;p&gt;Imagine a seguinte situação: um site possui um botão escrito “assine o RSS” e, por meio dele, espera-se que a pessoa acessando-o já possua acesso a um agregador de feeds, conheça sobre RSS e também saiba que para “assinar” não precisa “pagar”.&lt;/p&gt;
+&lt;p&gt;Contrastando com o cenário anterior, pense em uma plataforma em que esta mesma pessoa tem um perfil, tem contato com amigos e família e, quando encontra alguma página interessante, clica em “curtir” e assim passa a receber o conteúdo diretamente na sua &lt;em&gt;timeline&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Em qual das duas alternativas você acha que existe uma &lt;strong&gt;menor barreira de entrada&lt;/strong&gt;? A segunda opção possui uma qualidade que chamamos de &lt;em&gt;frictionless&lt;/em&gt; - em que o processo para se fazer algo não possui restrições, é realizado de maneira simples e sem atritos.&lt;/p&gt;
+&lt;p&gt;Para se ter uma ideia do tipo de atrito que estamos falando, é só lembrar da época em que os sites de notícias, como o The New York Times, apontavam para os feeds RSS com um botão escrito &lt;code class=&quot;language-text&quot;&gt;XML&lt;/code&gt;. &lt;em&gt;“Mas o que é esse tal de xml?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Falando em botões, acho legal comentar sobre o contexto em que surgiu a atual imagem do RSS.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;o-icone-rss&quot;&gt;&lt;/a&gt;O ícone do RSS: &lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;&lt;/h2&gt;
+&lt;p&gt;Voltando para 2004, época em que os sites mostravam os mais diversos botões para indicar o caminho para assinar os feeds, alguns navegadores já indicavam a disponibilidade de feeds pelos sites. O Firefox mostrava na barra de status um pequeno ícone laranja com o texto RSS.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8a1810fb658ab230332ecb55d600bf55/7e77b/mozilla-rss-statusbar.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 134px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 35.07462686567165%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEElEQVQY02P4TyL49fP72/dfgIy8jmsM2JX8+4dA//8hi/z9+3vrkWfbTrxMbrjKgKwMRQsO8Pv37zV7H2849jwJqPnm9VNo6MaN01fO7D2/dfbFHfMubJ118ejmK6eB3FmXdi64uG32hSObz108c+/uqcSqwwwvn19HQc+uPn99/87uWY/XNj1c03x/UcXtDf339y+6v6D4/ryCu5Pibq/rffn6wfePl9PrjzN8/XANBb2/+vnL3XfnVz9ZkPVkWfmjWVmv9s96f2Hto5kpjxYWPpyW9OrA7I+f7/z9eimn5TRDau1hdFRzCGhqavWB1Kp9aVX7U2uPpNcfS6s5kFZzEITqjibXHMpqOqbnuxMAkKdYdkXqttQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Ícone com o termo RSS na barra de status do Firefox em 2004&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8a1810fb658ab230332ecb55d600bf55/7e77b/mozilla-rss-statusbar.png&quot;
+        srcset=&quot;/static/8a1810fb658ab230332ecb55d600bf55/7e77b/mozilla-rss-statusbar.png 134w&quot;
+        sizes=&quot;(max-width: 134px) 100vw, 134px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;As resoluções mais utilizadas na época não favoreciam a qualidade como as telas de retina que temos hoje, o que possivelmente foi um dos motivos de gerar uma hilária confusão: parecia &lt;a href=&quot;https://bugzilla.mozilla.org/show_bug.cgi?id=261354&quot;&gt;estar escrito ASS&lt;/a&gt; ao invés de RSS (&lt;em&gt;ass&lt;/em&gt; significa &lt;em&gt;bunda&lt;/em&gt; em inglês). &lt;/p&gt;
+&lt;p&gt;Essa confusão, somada ao fato de que a imagem na barra de status era muito grande e muito &lt;em&gt;geeky&lt;/em&gt;, fizeram com que o &lt;a href=&quot;http://www.squarefree.com/burningedge/2004/09/26/2004-09-26-branch-builds/&quot;&gt;time da Mozilla viesse a criar o ícone&lt;/a&gt; que mais tarde foi adotado como padrão para RSS Feeds.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a10fd6d58a1299a9d79e4a6e8f0f1b4a/cc155/updating-rss-icon.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 886px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 7.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkUlEQVQI1yWIsQqCUABF+/agX9BIMfM9NbWWUqJJXNpaChESSwkL55RoOj1qONxzz0i/ZZhdRtpIzrsxq1ritQFRFxG0S5zKQV4sZGnjNh7+3UdcBYtyoXAIn+Fv3dpFqj6a5QKzEMwLi/UjwDgZWMq1o46pXMttdocJaTVl89mTDDFxv2X7UvQxyTtRX7Xhzxf1MX9eQOesnQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Imagem mostrando o registro da mudança do ícone do RSS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a10fd6d58a1299a9d79e4a6e8f0f1b4a/cc155/updating-rss-icon.png&quot;
+        srcset=&quot;/static/a10fd6d58a1299a9d79e4a6e8f0f1b4a/8ff5a/updating-rss-icon.png 240w,
+/static/a10fd6d58a1299a9d79e4a6e8f0f1b4a/e85cb/updating-rss-icon.png 480w,
+/static/a10fd6d58a1299a9d79e4a6e8f0f1b4a/cc155/updating-rss-icon.png 886w&quot;
+        sizes=&quot;(max-width: 886px) 100vw, 886px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;span class=&quot;image-credits&quot;&gt;Momento do nascimento do ícone &lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt; do RSS&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Um tempo depois, a Microsoft, que estava trabalhando no lançamento de uma funcionalidade de leitura de feeds no Internet Explorer 7, &lt;a href=&quot;https://web.archive.org/web/20081108075507/http://blogs.msdn.com/rssteam/archive/2005/10/08/478505.aspx&quot;&gt;apresentou algumas sugestões&lt;/a&gt; para utilizar como identificação de RSS. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/58bd89ab741e63bcc7a5eca5ad3245ef/74cfa/microsoft-ie7-icon-options.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 553px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 83.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACHElEQVQ4y51U227TQBDNJ/JD/ABPgHjlhae+VAgqqqhCoqCWh1IhNS0NSkjsjS/xrb7Hd/t0Z11HiUtRwkSj3Z1dz845czaDIAigaRoMw4Tj2FgsLRheBMsLofP4YrHgcYfvG9B1XbiiKGK0bVuMs9kMYRiCbJCmKTzPg3vnIEpzqGdHME7ewht9geMF/CNLHKYznbuuK5yKoctM00SSJG1C9KwZf0YxfIn46yH2taZpMMiyDFEUgSpdxTHivEScVUjyWlS2Wq3EHlVA6zzP1x/3XVTo+77gcLnUITOGydVPzK+/Q5NuIcmM76lQVVVwJUmSgNpP2K17kNtAenUE+80zRB9fb8X70HZI+HA481AoN6gccy/uOhtQ10gaJAEmy1C5bHQ3xNL1hWw0DpX2GaeD5EKwiYL5fI7pdLru7rrCoihEMOHkh0kG5+IY9sFzOOfvEWWFaBQ1hhoX8zk1phtJNmVZ/hsylreozt4hG53/H2S6XYiU3+hz+EFawa+BsKi52O8EFSReOkP00JpQbTZnq0IqvX1SGnT+/NiPUyjfDqGPL9s1Yw9P04BlWWLe1+KmPYJcXg+Rf3qB5PJkJ5iPElZVBfL1jfRr8NfDT/G2lZC4kblcSBJ/+L/G+NcNVDbnUKV1nJzmk8lEOEnnyQopUNc16qoE7wXiiw9YDV8hOD0Q64rLokOx6Ttw2G7UroKCjZBKvztse0G+B5zfG1t3pwj+AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Opções de ícones apresentadas pela Microsoft para adotar no Internet Explorer 7. Nenhuma delas foi escolhida.&quot;
+        title=&quot;&quot;
+        src=&quot;/static/58bd89ab741e63bcc7a5eca5ad3245ef/74cfa/microsoft-ie7-icon-options.png&quot;
+        srcset=&quot;/static/58bd89ab741e63bcc7a5eca5ad3245ef/8ff5a/microsoft-ie7-icon-options.png 240w,
+/static/58bd89ab741e63bcc7a5eca5ad3245ef/e85cb/microsoft-ie7-icon-options.png 480w,
+/static/58bd89ab741e63bcc7a5eca5ad3245ef/74cfa/microsoft-ie7-icon-options.png 553w&quot;
+        sizes=&quot;(max-width: 553px) 100vw, 553px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;span class=&quot;image-credits&quot;&gt;Opções apresentadas pela Microsoft para a escolha do ícone do RSS.&lt;br&gt;&lt;del&gt;Ainda bem que nenhuma delas foi a escolhida.&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O “processo de padronização” desse símbolo aconteceu naturalmente quando time que estava trabalhando no RSS do IE7 &lt;a href=&quot;https://web.archive.org/web/20081106074538/http://blogs.msdn.com/rssteam/archive/2005/12/14/503778.aspx&quot;&gt;entrou em contato com a Mozilla&lt;/a&gt; para adotar o mesmo ícone utilizado no Firefox. A partir daí, os dois principais navegadores do mercado na época definiram o mesmo ícone. O que não demorou para que os outros serviços passassem a utilizá-lo também. &lt;/p&gt;
+&lt;p&gt;Apesar de ser um ícone que não apresenta nenhuma extensão ou termo técnico, ainda não seria suficiente para explicar e tornar claro o significado dos feeds.&lt;/p&gt;
+&lt;p&gt;Existe um contexto implícito que deveria ser explicado claramente para qualquer pessoa. Não sobre o funcionamento, mas sobre como alguém poderia se beneficiar da tecnologia. &lt;/p&gt;
+&lt;p&gt;O ícone que representa o RSS deveria ser tratado como uma marca e um estudo da semiótica desta marca poderia ajudar na comunicação do seu entendimento.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;o-que-me-fez-voltar-a-ler-feeds&quot;&gt;&lt;/a&gt;O que me fez voltar a ler feeds&lt;/h2&gt;
+&lt;p&gt;Talvez o medo de ficar de fora - ou a famosa &lt;a href=&quot;https://pt.wikipedia.org/wiki/S%C3%ADndrome_de_FOMO&quot;&gt;FOMO&lt;/a&gt; (&lt;em&gt;Fear of Missing Out&lt;/em&gt;) - tenha sido a causa responsável para que eu assinasse milhares de newsletters por aí.&lt;/p&gt;
+&lt;p&gt;Quase todo site que você acessa hoje em dia tem um &lt;em&gt;call to action&lt;/em&gt; que te convida a assinar a newsletter e receber conteúdos novos direto no seu e-mail. O que é super conveniente qundo você recebe as atualizações esporadicamente, mas o que pode se tornar um pesadelo quando você assina dezenas de listas. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Nós prometemos não te enviar spam”&lt;/em&gt;. E de fato essa promessa foi cumprida por grande parte das listas que assinei. Mas a partir do momento que as novidades de todas as listas chegam de uma vez, soa como spam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Medium daily updates”. &lt;br&gt;Novos artigos no meu blog. &lt;br&gt;Veja as novidades. &lt;br&gt;Resumo da semana. &lt;br&gt;O que foi falado nesta semana. &lt;br&gt;Tudo sobre {&lt;em&gt;insira o assunto aqui&lt;/em&gt;} direto no seu e-mail. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Foi o que me levou a buscar uma solução que me permitisse assinar as newsletters como assino um feed RSS e assim ler direto no NewsBlur (ou no feedly) sem me preocupar em poluir a caixa de entrada de e-mails.&lt;/p&gt;
+&lt;p&gt;A alternativa encontrada foi uma solução open-source desenvolvida pelo &lt;a href=&quot;https://www.leafac.com/&quot;&gt;Leandro Facchinetti&lt;/a&gt; chamada &lt;a href=&quot;https://www.kill-the-newsletter.com/&quot;&gt;&lt;strong&gt;Kill the Newsletter&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O funcionamento é bem simples: basta dar um nome para a newsletter que você vai assinar e a aplicação vai gerar um e-mail para ser utilizado na assinatura da newsletter e uma URL para que você assine o feed e, dessa forma, todas as atualizações chegarão diretamente no seu gerenciador de feeds favorito.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;solucoes-inclusivas&quot;&gt;&lt;/a&gt;Oportunidade para pensar em soluções inclusivas&lt;/h2&gt;
+&lt;p&gt;Conforme comentei anteriormente, os termos “assine o feed”, “assine o RSS” e até mesmo os ícones utilizados, podem não ter facilitado o entendimento e o benefício da tecnologia por parte das pessoas. &lt;/p&gt;
+&lt;p&gt;Então, ao analisar a evolução dos feeds RSS podemos aprender algumas lições, sendo que a principal delas esa aqui: &lt;strong&gt;devemos criar formas de lançar soluções mais inclusivas, diminuindo as barreiras de entrada e permitindo que mais pessoas utilizem e obtenham o valor gerado por essas soluções&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Espero que você tenha compreendido um pouco sobre a história dos feeds RSS e o papel importante que possuem na Web aberta. Caso tenha alguma dúvida ou sugestão, fique à vontade em me mandar mensagem no Twitter &lt;a href=&quot;https://twitter.com/newtoncalegari&quot;&gt;@newtoncalegari&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Um novo blog]]></title><description><![CDATA[Após alguns anos utilizando Hugo como base do meu site, eu migrei para o Gatsby.]]></description><link>https://newtoncalegari.com.br/post/um-novo-blog/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/um-novo-blog/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Tue, 26 May 2020 02:49:23 GMT</pubDate><content:encoded>&lt;p&gt;Venho utilizando o Github para hospedar arquivos estáticos há alguns anos e não tenho nada do que reclamar. É bem simples, basta adicionar ao repositório todos os arquivos que devem ser disponibilizados na Web e pronto. Bem fácil.&lt;/p&gt;
 &lt;p&gt;A versão anterior deste blog era feita com &lt;a href=&quot;https://gohugo.io/&quot;&gt;Hugo&lt;/a&gt;, uma ferramenta para geração de páginas estáticas escrita na linguagem Go. O Hugo gerava todos os arquivos necessários para o site, incluindo os posts, o sitemap, etc. Só me restava escrever os textos e rodar um comando no terminal para que o site fosse atualizado (&lt;em&gt;claro que com WordPress é fácil, mas aqui tem seu charme, 😄)&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Embora eu não publique muita coisa por aqui, eu gosto dessa dinâmica em que todo conteúdo é escrito em &lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;markdown&lt;/a&gt; e, com uma &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;biblioteca de geração de sites estáticos&lt;/a&gt;, todas as páginas HTML ficam prontas para serem publicadas.&lt;/p&gt;
 &lt;p&gt;
