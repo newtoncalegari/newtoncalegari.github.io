@@ -7,14 +7,22 @@
 <p>It is also possible to use the <code class="language-text">:lang()</code> pseudo-class selector to style content in different languages. Although the most common use cases are associated with text direction, such as right-to-left texts, we can use other properties as in this example:</p>
 <div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css">  <span class="token selector">p:lang(es)</span> <span class="token punctuation">{</span>
     <span class="token property">background</span><span class="token punctuation">:</span> #ffd2d2<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  <span class="token selector">p:lang(es)::before</span> <span class="token punctuation">{</span>
     <span class="token property">content</span><span class="token punctuation">:</span> <span class="token string">'🇪🇸'</span><span class="token punctuation">;</span>
   <span class="token punctuation">}</span>
+
   <span class="token selector">p:lang(pt-br)</span> <span class="token punctuation">{</span>
     <span class="token property">background</span><span class="token punctuation">:</span> #fffbc7<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  <span class="token selector">p:lang(pt-br)::before</span> <span class="token punctuation">{</span>
     <span class="token property">content</span><span class="token punctuation">:</span> <span class="token string">'🇧🇷'</span><span class="token punctuation">;</span>
   <span class="token punctuation">}</span>
+
   <span class="token selector">p:lang(en)</span> <span class="token punctuation">{</span>
     <span class="token property">background</span><span class="token punctuation">:</span> #dcf8ff<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  <span class="token selector">p:lang(en)::before</span> <span class="token punctuation">{</span>
     <span class="token property">content</span><span class="token punctuation">:</span> <span class="token string">'🇬🇧'</span><span class="token punctuation">;</span>
   <span class="token punctuation">}</span></code></pre></div>
 <style type="text/css">
@@ -72,7 +80,7 @@
   <br><span class="author">One Hundred Years of Solitude</span></p>
 </blockquote>
 <p>Reinaldo Ferraz, a friend of mine, says that <code class="language-text">alt</code> and <code class="language-text">lang</code> are two simple yet powerful HTML attributes, however their use is sometimes neglected. I highly recommend <a href="https://www.youtube.com/watch?v=kZD9NvGMjGE">watching</a> his <a href="https://pt.slideshare.net/reinaldoferraz/the-power-of-alt-and-lang-attributes">presentation</a> about these attributes where he shows their impact not only on accessibility but also on page optimization for search engines (SEO).</p>
-<p>When I worked for the W3C Brazil and Ceweb at NIC.br, I had the pleasure of working with Reinaldo, who knows all technical details related to <strong>web accessibility</strong> and who, by the way, has recently published a new book on this subject and <a href="https://www.amazon.com.br/Acessibilidade-Web-construir-aplica%C3%A7%C3%B5es-acess%C3%ADveis-ebook/dp/B0882KDCHK/">the Portuguese version</a> is available on Amazon.</p>
+<p>When I worked for the W3C Brazil and Ceweb at NIC.br, I had the pleasure of working with Reinaldo, who knows all technical details related to <strong>web accessibility</strong> and who, by the way, has recently published a new book on this subject and <a href="https://www.amazon.com.br/Acessibilidade-Web-construir-aplica%C3%A7%C3%B5es-acess%C3%ADveis-ebook/dp/B0882KDCHK/">the portuguese version</a> is available on Amazon.</p>
 <p>I thought it would be nice to share this small update because we seldom give the proper attention to this simple attribute.</p></div></div><div class="post-single__footer"><div class="post-single__tags"><ul class="post-single__tags-list"><li class="post-single__tags-list-item"><a class="post-single__tags-list-item-link" href="/tags/html/">html</a></li><li class="post-single__tags-list-item"><a class="post-single__tags-list-item-link" href="/tags/web-development/">web development</a></li></ul></div><hr/><p class="post-single__footer-text"><strong>Newton Calegari</strong> <br/>💻 Product Manager | 📚 CS &amp; Design Professor<a href="https://twitter.com/newtoncalegari" target="_blank" rel="noopener noreferrer"><br/> @newtoncalegari</a></p><div></div></div></div></div></div></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script>
   
   
