@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Newton Calegari]]></title><description><![CDATA[💻 Product Manager | 📚 CS & Design Professor]]></description><link>https://newtoncalegari.com.br/</link><image><url>https://newtoncalegari.com.br/newton.png</url><title>Newton Calegari</title><link>https://newtoncalegari.com.br/</link></image><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Sep 2020 00:20:42 GMT</lastBuildDate><atom:link href="https://newtoncalegari.com.br/rss" rel="self" type="application/rss+xml"/><language><![CDATA[pt-BR]]></language><webMaster><![CDATA[https://newtoncalegari.com.br/]]></webMaster><item><title><![CDATA[A Visão Sistêmica no Gerenciamento de Produtos]]></title><link>https://newtoncalegari.com.br/post/visao-sistemica-gerenciamento-de-produtos/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/visao-sistemica-gerenciamento-de-produtos/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Sun, 30 Aug 2020 20:30:20 GMT</pubDate><content:encoded>&lt;p&gt;Por mais simples que um produto possa parecer à primeira vista, nós não notamos a complexidade que existe nele. Desde o desenvolvimento, etapa que requer esforços de engenharia, código, bases de dados, design de interfaces, pesquisas de experiência de usuário (UX), até estratégias de marketing e divulgação.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Newton Calegari]]></title><description><![CDATA[💻 Product Manager | 📚 CS & Design Professor]]></description><link>https://newtoncalegari.com.br/</link><image><url>https://newtoncalegari.com.br/newton.png</url><title>Newton Calegari</title><link>https://newtoncalegari.com.br/</link></image><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Mar 2021 14:54:45 GMT</lastBuildDate><atom:link href="https://newtoncalegari.com.br/rss" rel="self" type="application/rss+xml"/><language><![CDATA[pt-BR]]></language><webMaster><![CDATA[https://newtoncalegari.com.br/]]></webMaster><item><title><![CDATA[Conhecendo o débito técnico no desenvolvimento de produtos]]></title><description><![CDATA[O débito técnico surge no contexto do desenvolvimento de produtos como resultado do trade-off entre o curto e o longo prazo.]]></description><link>https://newtoncalegari.com.br/post/debito-tecnico-no-desenvolvimento-de-produtos/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/debito-tecnico-no-desenvolvimento-de-produtos/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Tue, 16 Mar 2021 10:30:20 GMT</pubDate><content:encoded>&lt;p&gt;O débito técnico no desenvolvimento de produtos acontece quando tomamos decisões priorizando a velocidade da implementação em detrimento de escolhas arquiteturais que resolvam o problema por completo. Geralmente é resultado da implementação de correções rápidas e momentâneas, sem considerar uma solução mais adequada para o longo prazo.&lt;/p&gt;
+&lt;p&gt;O débito técnico possui dois fatores que impactam diretamente o negócio: custo e risco.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Em termos de custo, qual é o custo para a organização ao manter o débito técnico?&lt;/li&gt;
+&lt;li&gt;Quanto ao risco, quais são as chances de que esse débito técnico atual se transforme em um problema maior no futuro, exigindo maior atenção e esforço para resolvê-lo?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Um componente de um produto que possui débito técnico pode trazer complexidade extra, dificultando, assim, sua manutenção ou melhoria.&lt;/p&gt;
+&lt;p&gt;O conceito de débito técnico apareceu pela primeira vez em um &lt;a href=&quot;https://dl.acm.org/doi/10.1145/157710.157715&quot;&gt;artigo publicado em 1992&lt;/a&gt; por Ward Cunningham na conferência OOPSLA’92 sobre engenharia de software.&lt;/p&gt;
+&lt;p&gt;Neste paper Cunningham escreveu a respeito de um sistema chamado &lt;em&gt;WyCash&lt;/em&gt;, utilizado para gerenciamento de portfólios de investimento. O que talvez tenha facilitado a construção da metáfora com o débito financeiro.&lt;/p&gt;
+&lt;p&gt;Assim como em um empréstimo nós precisamos pagar juros sobre o principal, quando optamos por uma solução rápida ou temporária a nível de software, nós também pagamos juros sobre essa decisão.&lt;/p&gt;
+&lt;p&gt;Em 2003, pouco mais de uma década após o paper de Cunningham, Martin Fowler, referência na área de engenharia de software, descreveu débito da seguinte maneira:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Doing things the quick and dirty way sets us up with a technical debt, which is similar to a financial debt. Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Em uma adaptação livre para português, seria algo como:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fazer coisas de maneira “rápida e suja” vai gerar débito técnico, que é similar ao débito financeiro. Do mesmo modo que um débito financeiro, o débito técnico está sujeito ao pagamento de juros, que vem na forma de esforço extra que nós temos que fazer no futuro por causa de uma decisão arquitetural “rápida e suja”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Fowler ainda provoca dizendo que podemos escolher entre continuar pagando esses juros ou pagar todo o valor por meio da &lt;a href=&quot;https://pt.wikipedia.org/wiki/Refatora%C3%A7%C3%A3o&quot;&gt;refatoração&lt;/a&gt; do componente que causou débito técnico.&lt;/p&gt;
+&lt;h2&gt;O impacto do débito técnico&lt;/h2&gt;
+&lt;p&gt;Nosso papel como gerentes de produtos é identificar maneiras de adicionar ou ampliar o valor dos nossos produtos.&lt;/p&gt;
+&lt;p&gt;A sugestão de refatoração, apesar de contribuir para pagar o débito técnico, pode não se encaixar no nosso fluxo de desenvolvimento de produtos pois as atividades de revisão e reescrita de código dificilmente propõem novo valor imediato para os usuários. Essas atividades são encaradas como pagamentos de juros de uma dívida iniciada a partir de uma escolha arquitetural que se mostrou inadequada.&lt;/p&gt;
+&lt;p&gt;É neste momento que começa a surgir um conflito no processo de gerenciamento de produtos: se por um lado contrair dívidas técnicas trará melhorias rápidas e valor imediato para os usuários; por outro lado, esse débito pode crescer e dificultar a implementação de melhorias no futuro.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nós, como gerentes de produtos, devemos avaliar o &lt;a href=&quot;https://pt.wikipedia.org/wiki/Trade-off&quot;&gt;trade-off&lt;/a&gt; entre o valor presente e o futuro.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Introduzir muito débito técnico, com o objetivo de priorizar funcionalidades que tragam valor imediato, traz um risco que pode vir a comprometer a viabilidade do produto a longo prazo, tornando-o um artefato cada vez mais complexo e exigindo esforços ainda maiores para refatoração.&lt;/p&gt;
+&lt;p&gt;Em contrapartida, focar em manter a qualidade do software impecável pode postergar a entrega de valor de um produto e comprometer sua sobrevivência no mercado em que está inserido.&lt;/p&gt;
+&lt;p&gt;Não são decisões simples, tampouco fáceis de serem tomadas.&lt;/p&gt;
+&lt;p&gt;É comum empresas contraírem dívidas financeiras para viabilizar a execução de projetos buscando um retorno (&lt;a href=&quot;https://pt.wikipedia.org/wiki/Retorno_sobre_o_investimento&quot;&gt;ROI&lt;/a&gt;) positivo no futuro. Da mesma forma, é normal aceitarmos débito técnico, desde que mantido sob controle.&lt;/p&gt;
+&lt;p&gt;É um risco que faz parte do jogo.&lt;/p&gt;
+&lt;h2&gt;A visibilidade do débito técnico&lt;/h2&gt;
+&lt;p&gt;Por ser naturalmente um assunto mais próximo dos times de engenharia, o conhecimento e controle sobre débito técnico acontece localmente, a nível de time.&lt;/p&gt;
+&lt;p&gt;O que facilita sua percepção em ambientes mais próximos da execução e mais distantes do nível estratégico, tornando-o invisível para organização e acarretando em dificuldades para conquistar &lt;em&gt;buy-in&lt;/em&gt; de stakeholders importantes para o pagamento dessa dívida.&lt;/p&gt;
+&lt;p&gt;Sabendo que o débito técnico pode impactar negativamente o negócio no longo prazo, cabe à pessoa no papel de gerente de produtos traduzir de maneira acessível este assunto para as pessoas que estão no nível de negócio.&lt;/p&gt;
+&lt;h2&gt;Lidando com débito técnico no dia a dia&lt;/h2&gt;
+&lt;p&gt;Saber o que impactará a curto, médio e a longo prazo faz diferença na priorização e gerenciamento da evolução do produto.&lt;/p&gt;
+&lt;p&gt;Não podemos nos isentar da responsabilidade pelo surgimento de débito técnico nos nossos produtos. Geralmente surge como resultado da priorização de uma solução imediata, em alguns casos paliativa, em detrimento de uma solução que melhor atende aos &lt;a href=&quot;https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional&quot;&gt;requisitos não funcionais&lt;/a&gt; ou arquiteturais do software.&lt;/p&gt;
+&lt;p&gt;O aparecimento de débito técnico é inevitável justamente por resultar do trade-off entre o curto e o longo prazo. Contudo, quanto maior o nível de incerteza em relação a uma funcionalidade, maiores podem ser os juros sobre a dívida técnica a serem pagos no futuro.&lt;/p&gt;
+&lt;p&gt;O primeiro passo é saber da possível existência de débito técnico, isso permitirá que o time tenha consciência de que algumas implementações poderão contribuir para essa dívida.&lt;/p&gt;
+&lt;p&gt;Para ter dimensão do débito técnico podemos adotar uma estratégia simples: a identificação de itens do backlog que podem gerar débito técnico. Por meio da utilização de uma tag ou alguma outra marcação podemos identificar aquele item como resultado ou causa de débito técnico.&lt;/p&gt;
+&lt;p&gt;Esta marcação explícita nos permite buscar facilmente itens que podem ser otimizados e melhorados a fim de pagar, aos poucos, parcelas da dívida técnica.&lt;/p&gt;
+&lt;p&gt;Sabemos que o débito aparecerá até mesmo nos melhores times, então para trazer entender o que possivelmente originou esse débito, nós podemos utilizar a &lt;a href=&quot;https://martinfowler.com/bliki/TechnicalDebtQuadrant.html&quot;&gt;matriz&lt;/a&gt; de &lt;a href=&quot;https://agilemomentum.wordpress.com/2016/12/05/1288/&quot;&gt;débitos técnicos&lt;/a&gt;, dividida em 4 quadrantes que podem dar pistas sobre a origem do débito técnico: imprudente ou prudente, e deliberado ou inadvertido. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e68607e7529ece50b54599715ce3ef1a/49ee2/matriz-debito-tecnico.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAABNElEQVQ4y4VTya6EMAzj/7+N29xYhcQixL5vh4wcyajDA97BNEpTx3WDNc+zFEUheZ5LXde6ZlkmVVVpjL2+72WaJhnHUYH4CdayLJIkiXieJ3EcSxRF4jiO5sIwFNd1lRyNTcIncgtJkK7req7btmm877scx6E5ECJH4keFZjdiGAbdTNNUfN9X5YihGBbcnWET680PeNe2rTRNo/4iRjOoZI0Zg/RHYdd1PwCBqRoN4CeABgBj3sqiVHqDAlwLgDIUAmhApSZZWZa6noT4oBgFOGC+IpoAVGde7w56ZbxcEARi27Z8Ph+dQXoHmMpow9Ua4vSQCll8nTM0uOafYJkzRVXwhKroI/8WeoaVMc7cvjIOPq0gRIwGbGza8ofwzWy+8n8Pco7N9f+8Tj9H581D7n0BLpgv7m2s1vMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Matriz de Débito Técnico&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e68607e7529ece50b54599715ce3ef1a/d9199/matriz-debito-tecnico.png&quot;
+        srcset=&quot;/static/e68607e7529ece50b54599715ce3ef1a/8ff5a/matriz-debito-tecnico.png 240w,
+/static/e68607e7529ece50b54599715ce3ef1a/e85cb/matriz-debito-tecnico.png 480w,
+/static/e68607e7529ece50b54599715ce3ef1a/d9199/matriz-debito-tecnico.png 960w,
+/static/e68607e7529ece50b54599715ce3ef1a/07a9c/matriz-debito-tecnico.png 1440w,
+/static/e68607e7529ece50b54599715ce3ef1a/49ee2/matriz-debito-tecnico.png 1618w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Além destas abordagens, existem outras que podem se adequar mais à cultura do time. Neste artigo sobre &lt;a href=&quot;https://productoversee.com/o-debito-tecnico-de-hoje-e-a-urgencia-de-amanha/&quot;&gt;débito técnico e urgências futuras&lt;/a&gt; Pablo Silva apresenta outras estratégias de “pagamento” para evitar que a dívida fique muito cara.&lt;/p&gt;
+&lt;p&gt;Não somente o entendimento do estado atual do nível de débito técnico é importante, mas também saber o que fará com que essa dívida cresça. Por isso, em equipes com níveis diversos, pessoas mais experientes devem ajudar o restante do time a avaliar o impacto de determinada solução e se tal solução adotada implicará no crescimento da dívida.&lt;/p&gt;
+&lt;p&gt;Novamente, nós como gerentes de produtos, devemos considerar o débito técnico como um dos fatores que influenciam na decisão de priorizar uma nova implementação ou release. Do ponto de vista estratégico, é importante que não priorizemos uma funcionalidade a todo custo, ou seja, decidir sem avaliar minimamente o impacto e os “juros” consequentes dessa decisão.&lt;/p&gt;
+&lt;p&gt;É normal que uma escolha por uma solução rápida seja a única a possível para o momento, já que uma opção mais completa poderia comprometer o tempo para entrega de valor do produto. Por isso é fundamental que saibamos balancear o montante de débito técnico e não somente evitá-lo a todo custo.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Visão Sistêmica no Gerenciamento de Produtos]]></title><link>https://newtoncalegari.com.br/post/visao-sistemica-gerenciamento-de-produtos/</link><guid isPermaLink="false">https://newtoncalegari.com.br/post/visao-sistemica-gerenciamento-de-produtos/</guid><dc:creator><![CDATA[Newton Calegari]]></dc:creator><pubDate>Sun, 30 Aug 2020 20:30:20 GMT</pubDate><content:encoded>&lt;p&gt;Por mais simples que um produto possa parecer à primeira vista, nós não notamos a complexidade que existe nele. Desde o desenvolvimento, etapa que requer esforços de engenharia, código, bases de dados, design de interfaces, pesquisas de experiência de usuário (UX), até estratégias de marketing e divulgação.&lt;/p&gt;
 &lt;p&gt;Todas essas habilidades contribuem para a tangibilização de uma proposta de valor e consequentemente para o sucesso de um produto.&lt;/p&gt;
 &lt;p&gt;Além disso, existe o fato de que &lt;strong&gt;produtos são criados por pessoas&lt;/strong&gt;, o que contribui para aumentar a sua complexidade e torna o seu processo de criação ainda mais incrível.&lt;/p&gt;
 &lt;p&gt;Nós, como pessoas, não isolamos nossas percepções, ideias, crenças e culturas daquilo que criamos.&lt;/p&gt;
